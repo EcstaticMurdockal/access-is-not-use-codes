@@ -30,13 +30,16 @@ def main():
         for item in provenance['inputs']:
             f=ROOT/item['path'];assert hashlib.sha256(f.read_bytes()).hexdigest()==item['sha256'], 'Input hash mismatch: '+str(f)
         run([sys.executable,'replication/build_nhs_aqp_panel.py','--offline'])
-        scripts=['verify_models.py','verify_models_round28.py','reproduce_nhanes_access_use.py','research_audit_20261124/nhanes_sensitivity.py','research_audit_20261124/distribution_stress.py','research_audit_20261124/corner_regression.py','replication/audit_nhs_aqp_pretrends.py']
+        scripts=['verify_models.py','verify_models_round28.py','reproduce_nhanes_access_use.py','research_audit_20261124/nhanes_sensitivity.py','research_audit_20261124/distribution_stress.py','research_audit_20261124/corner_regression.py','research_audit_20261124/reserved_capacity.py','replication/audit_nhs_aqp_pretrends.py']
         for f in scripts:run([sys.executable,f])
         nh=json.loads((ROOT/'nhanes_reproduction_results.json').read_text());assert nh['sample_flow']['primary_known_test_recency']==197
         # The stored estimate is beta on the log-odds scale.
         import math
         assert abs(math.exp(nh['primary_adjusted_logit']['beta_recent'])-2.816264656159935)<1e-8
         st=json.loads((ROOT/'research_audit_20261124/distribution_stress_results.json').read_text());assert st['pass'] and st['tested']==1495 and st['sign_failures']==0
+        reservation=json.loads((ROOT/'research_audit_20261124/reserved_capacity_results.json').read_text())
+        assert reservation['passed'] and reservation['max_finite_difference_error']<1e-7
+        report['reservation_validation']={k:reservation[k] for k in ['max_finite_difference_error','max_reference_equilibrium_difference']}
         report['numeric_validation']={'n':197,'primary_OR':math.exp(nh['primary_adjusted_logit']['beta_recent']),'stress_tested':st['tested'],'max_errors':st['max_absolute_errors']}
         if args.figures:
             run([sys.executable,'build_visuals.py'])

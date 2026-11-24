@@ -1,16 +1,16 @@
 # Access Is Not Use: replication code and data
 
-Replication release **v1.0.0** for *Access Is Not Use: Device Subsidies and Aftercare Capacity in Hearing-Aid Provision*.
+Replication release **v1.1.0** for *Access Is Not Use: Device Subsidies and Aftercare Capacity in Hearing-Aid Provision*.
 Repository: https://github.com/EcstaticMurdockal/access-is-not-use-codes
 
 ## Get the paper-specific version
 
 ```sh
-git clone --branch v1.0.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
+git clone --branch v1.1.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
 cd access-is-not-use-codes
 ```
 
-Alternatively select tag `v1.0.0` on GitHub, choose **Code → Download ZIP**, and extract it. Run commands from the extracted repository root. The tag identifies this replication release; subsequent work on `main` may differ. `MANIFEST_SHA256.json` records released file hashes.
+Alternatively select tag `v1.1.0` on GitHub, choose **Code → Download ZIP**, and extract it. Run commands from the extracted repository root. The tag identifies this replication release; subsequent work on `main` may differ. `MANIFEST_SHA256.json` records released file hashes.
 
 ## Install and run
 
@@ -55,12 +55,12 @@ The manuscript, its LaTeX text, and its cover are not distributed in this code r
 
 ## Navigate the results
 
-`RESULTS_MAP.csv` links each of the 12 manuscript figures and each computational result family to code, inputs, outputs, and interpretation. Static conceptual/evidence tables and proofs are authored in the manuscript with citations; they are not estimated outputs. Appendix A contains proofs, Appendix H empirical sensitivity, Appendix I algorithms and numerical validation, and Appendix J replication instructions.
+`RESULTS_MAP.csv` links each of the 12 manuscript figures and each computational result family to code, inputs, outputs, and interpretation. Static conceptual/evidence tables and proofs are authored in the manuscript with citations; they are not estimated outputs. The paper appendices contain proofs, empirical sensitivity, algorithms and replication instructions; consult the current paper for appendix numbering.
 
 ## Source data and limitations
 NHANES P_DEMO, P_AUQ and P_AUX are public CDC 2017–March 2020 pre-pandemic data. Source URLs and SHA-256 hashes are in data_provenance.json. AUQ144=1 is less than ONE year since specialist testing; AUQ153=3 or4 means at least four hours/day. The five-year alternative uses AUQ144=1 or2. The primary OR is a selected-user cross-sectional association, not a service or congestion effect.
 
-HSP CSVs are manual transcriptions of cited official statistics. Some plotted HSP series are encoded as explicit constants in make_paper_figures.py; the figures are not automated downloads from the official source. The package includes all 32 original NHS workbooks and their source-URL/hash manifest. replication/build_nhs_aqp_panel.py --offline reconstructs ccg_month_panel.csv before the diagnostic script runs. The reconstructed 6,754-row, 76-column CSV matched the earlier panel byte for byte. Provisional Monitor treatment dates remain disputed; reproducible outcomes do not validate treatment timing.
+HSP CSVs are manual transcriptions of cited official statistics. The HSP plot reads the transcribed CSV directly; it is not an automated download from the official source. The package includes all 32 original NHS workbooks and their source-URL/hash manifest. replication/build_nhs_aqp_panel.py --offline reconstructs ccg_month_panel.csv before the diagnostic script runs. The reconstructed 6,754-row, 76-column CSV matched the earlier panel byte for byte. Provisional Monitor treatment dates remain disputed; reproducible outcomes do not validate treatment timing.
 
 MANIFEST_SHA256.json records all distributed files except itself; data_provenance.json identifies immutable inputs. Outputs may be overwritten by reproduction. PDF bytes can differ because of timestamps/font/rendering versions; numerical validation uses tolerances. No internet access or private data is needed for the packaged computations. External articles cited in the paper are not all archived here.
 
@@ -72,3 +72,7 @@ The core model concerns a selected locally substitutable post-fitting support po
 Third-party data retain their source terms; source URLs and hashes do not confer a new license. No blanket license for third-party data, fonts, or artwork is granted by this release. Code is made available for inspection and replication; a separate open-source license has not been designated.
 
 For errors, open a GitHub issue with the release tag, command, Python/package versions, and the relevant non-sensitive error log. Do not upload credentials or private records.
+
+## Matched-baseline institutional check (v1.1.0)
+
+`research_audit_20261124/reserved_capacity.py` compares pooled support with group-reserved capacity. Group reservation shares are set once from the reference equilibrium and held fixed during subsidy perturbations. All five institutional rules have the same baseline adoption and delivered support. The code verifies the analytical response matrix, the resource identity, the pooled limit and the fully reserved limit. It writes CSV/JSON results and the generated table. Within-group congestion persists at full reservation. These are illustrative local comparative statics, not an estimated institutional effect.

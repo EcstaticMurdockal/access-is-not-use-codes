@@ -17,7 +17,7 @@
         "--offline"
       ],
       "exit_code": 0,
-      "seconds": 2.342,
+      "seconds": 2.058,
       "log": "reproduction_run/01.log"
     },
     {
@@ -26,7 +26,7 @@
         "verify_models.py"
       ],
       "exit_code": 0,
-      "seconds": 1.374,
+      "seconds": 1.236,
       "log": "reproduction_run/02.log"
     },
     {
@@ -35,7 +35,7 @@
         "verify_models_round28.py"
       ],
       "exit_code": 0,
-      "seconds": 1.154,
+      "seconds": 1.386,
       "log": "reproduction_run/03.log"
     },
     {
@@ -44,7 +44,7 @@
         "reproduce_nhanes_access_use.py"
       ],
       "exit_code": 0,
-      "seconds": 1.21,
+      "seconds": 1.417,
       "log": "reproduction_run/04.log"
     },
     {
@@ -53,7 +53,7 @@
         "research_audit_20261124/nhanes_sensitivity.py"
       ],
       "exit_code": 0,
-      "seconds": 1.346,
+      "seconds": 1.549,
       "log": "reproduction_run/05.log"
     },
     {
@@ -62,7 +62,7 @@
         "research_audit_20261124/distribution_stress.py"
       ],
       "exit_code": 0,
-      "seconds": 5.018,
+      "seconds": 5.011,
       "log": "reproduction_run/06.log"
     },
     {
@@ -71,8 +71,17 @@
         "research_audit_20261124/corner_regression.py"
       ],
       "exit_code": 0,
-      "seconds": 0.481,
+      "seconds": 0.535,
       "log": "reproduction_run/07.log"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "research_audit_20261124/reserved_capacity.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.498,
+      "log": "reproduction_run/08.log"
     },
     {
       "command": [
@@ -80,12 +89,16 @@
         "replication/audit_nhs_aqp_pretrends.py"
       ],
       "exit_code": 0,
-      "seconds": 1.944,
-      "log": "reproduction_run/08.log"
+      "seconds": 2.099,
+      "log": "reproduction_run/09.log"
     }
   ],
   "scope": "Offline raw-workbook reconstruction and computational replication; not independent causal identification.",
   "mode": "analysis-only",
+  "reservation_validation": {
+    "max_finite_difference_error": 1.2161521789622043e-10,
+    "max_reference_equilibrium_difference": 7.216449660063518e-16
+  },
   "numeric_validation": {
     "n": 197,
     "primary_OR": 2.816264656159935,

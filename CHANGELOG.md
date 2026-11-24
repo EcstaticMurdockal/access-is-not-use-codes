@@ -1,5 +1,9 @@
 # Release history
 
-## v1.0.0 — code and data
+## v1.1.0
 
-Replication code, public source inputs, model checks, statistical analyses, figure generators and result mappings. The manuscript text, PDF and cover are excluded. Numerical replication is the default; `--figures` additionally rebuilds programmatic figures.
+Adds matched-baseline shared versus reserved capacity analysis, its analytical derivative checks and result table. HSP figure code now reads the supplied CSV as its single data source. Result mappings use semantic names rather than changing figure numbers. The public repository remains code and data only.
+
+## v1.0.0
+
+Initial code and data replication release.

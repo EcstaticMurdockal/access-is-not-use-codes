@@ -152,15 +152,18 @@ def benchmark_tradeoff():
 
 def hsp_multiyear():
     """Plot official HSP annual aggregates without treating them as capacity."""
-    years = np.array(["2021--22", "2022--23", "2023--24", "2024--25"])
-    active = np.array([811991, 802861, 806473, 834048], dtype=float)
-    new = np.array([222284, 291576, 317420, 325923], dtype=float)
-    returning = np.array([589707, 511355, 496879, 515526], dtype=float)
-    fitting = np.array([184947, 197330, 197062, 201610], dtype=float)
-    maintenance = np.array([622630, 534634, 504852, 519989], dtype=float)
-    rehabilitation = np.array([6007, 7917, 7685, 11207], dtype=float)
-    review = np.array([302294, 383623, 403248, 420136], dtype=float)
-    practitioners = np.array([3273, 3181, 3445, 3619], dtype=float)
+    import pandas as pd
+    data=pd.read_csv(ROOT/'hsp_2021_25_national.csv')
+    years=data['financial_year'].str.replace('-', '--', regex=False).to_numpy()
+    active=data['active_clients'].to_numpy(dtype=float)
+    new=data['new_clients'].to_numpy(dtype=float)
+    returning=data['returning_clients'].to_numpy(dtype=float)
+    fitting=data['fitting_claims'].to_numpy(dtype=float)
+    maintenance=data['maintenance_claims'].to_numpy(dtype=float)
+    rehabilitation=data['rehabilitation_claims'].to_numpy(dtype=float)
+    review=data['review_claims'].to_numpy(dtype=float)
+    practitioners=data['practitioners'].to_numpy(dtype=float)
+    assert len(data)==4 and np.all(active>0) and np.all(practitioners>0)
     x = np.arange(len(years))
 
     fig, axes = plt.subplots(1, 3, figsize=(8.0, 3.15), constrained_layout=True)
