@@ -1,5 +1,9 @@
 # Release history
 
+## v1.3.1
+
+Generate complete 13-specification and key-contrast tables directly from audited JSON. Numerical estimates are unchanged.
+
 ## v1.3.0
 
 Adds 240 NHANES influence refits and weight-concentration diagnostics. Records every deletion result without significance-based selection. Inputs, primary estimates and figures remain unchanged.
