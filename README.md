@@ -84,3 +84,7 @@ For errors, open a GitHub issue with the release tag, command, Python/package ve
 ## Influence diagnostics
 
 `research_audit_20261124/nhanes_influence.py` refits the primary model after each participant deletion and each contributing masked-PSU exclusion (240 fits). Outputs include every deletion and survey-weight concentration. Deletion ranges are not confidence intervals; weights are not recalibrated. This check does not address unmeasured confounding or selection into current use.
+
+## Exploratory policy-spillover extension
+
+The [Medicare spillover pilot](replication/medicare_spillover_pilot/README.md) contains a separate public-data state-level DiD analysis and a Census insurance-coverage check. It is optional and not part of the established reproduction pipeline. The primary utilization estimate is imprecise and indistinguishable from zero; this is not a validated hearing-aid congestion estimate. Source downloads, hashes, commands, all outcomes and diagnostics are provided.

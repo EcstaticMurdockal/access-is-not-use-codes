@@ -1,0 +1,80 @@
+[
+  {
+    "filename": "cms_geo_2014_2024.csv",
+    "url": "https://data.cms.gov/sites/default/files/2026-04/cc600d1e-d475-4b0e-80dc-1f64c01ca68c/2014-2024%20Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File.csv",
+    "sha256": "10c8304012da34da3ecfe4caf4548927095f693383814d0e79ce6711b6806fad",
+    "bytes": 57865948
+  },
+  {
+    "filename": "historical_2007_2013.zip",
+    "url": "https://data.cms.gov/sites/default/files/2024-05/c4084cb9-926f-4a8e-af3e-065e2d7e4c15/Historical%20Data%20and%20Documentation%20for%202007-2013.zip",
+    "sha256": "b19cf6e2319082933903caacc671744d973dc7c736d9362f22793c36a6d8c3f3",
+    "bytes": 46863114
+  },
+  {
+    "filename": "methodology.pdf",
+    "url": "https://data.cms.gov/sites/default/files/2026-05/Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf",
+    "sha256": "e7c6ca8a3cb4cd761f44ee5d5e4ee78a379479a73cd93f69fb116c860a9944ca",
+    "bytes": 196478
+  },
+  {
+    "filename": "sahie/2009.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2009-csv.zip",
+    "sha256": "a957d6be9b106b9183c9d4336020552f0cbfcdace5e3fe5878f12f72c77fae32",
+    "bytes": 5518364
+  },
+  {
+    "filename": "sahie/2010.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2010-csv.zip",
+    "sha256": "0bfca9d001ab092f1c09b1085b1917a264f3debe019ac41279f7d41721185fff",
+    "bytes": 7010517
+  },
+  {
+    "filename": "sahie/2011.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2011-csv.zip",
+    "sha256": "4a45ae16eb5a1056ba9507ff0a61c6965a0768fb0301d20be6995d0a9894f858",
+    "bytes": 6997780
+  },
+  {
+    "filename": "sahie/2012.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2012-csv.zip",
+    "sha256": "bc81902b05e1a777903b09cbb22568bb035b70b061dbf3ef1d540b2f4759c760",
+    "bytes": 8383350
+  },
+  {
+    "filename": "sahie/2013.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2013-csv.zip",
+    "sha256": "83f17ce5816b358a442966cfbf4d70f7f2b15453b6727f591ca2f0c1f1756158",
+    "bytes": 8373078
+  },
+  {
+    "filename": "sahie/2014.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2014-csv.zip",
+    "sha256": "1d8d171b7a006ebc06a9667fe546245edb75b23085626dda999a6dcce3817731",
+    "bytes": 10148413
+  },
+  {
+    "filename": "sahie/2015.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2015-csv.zip",
+    "sha256": "052df8828e18bce6bd8735c447ce62f17de77b509ad260f2d652914ed1c83715",
+    "bytes": 10086067
+  },
+  {
+    "filename": "sahie/2016.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2016-csv.zip",
+    "sha256": "f06b7c857e1f72f1ef24d2b9412b2a6d028cd88d87b9f0ae5025653b5954551a",
+    "bytes": 10050508
+  },
+  {
+    "filename": "sahie/2017.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2017-csv.zip",
+    "sha256": "a24d87b0f2ad62c7c774e68966dd45c3cbdb449ddfa307e2c389cb1f490bd058",
+    "bytes": 10056562
+  },
+  {
+    "filename": "sahie/2018.zip",
+    "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2018-csv.zip",
+    "sha256": "dbec1c9018d432acfdd4f86e6f0f31cd0c3d6818aebebd0283ffe53a8e9143be",
+    "bytes": 10053953
+  }
+]
