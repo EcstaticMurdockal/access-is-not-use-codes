@@ -29,3 +29,7 @@ Policy chronology sources:
 - https://www.minneapolisfed.org/institute/working-papers/-/media/files/institute/working-papers/wp19-09.pdf
 
 These exclusions intentionally remove broad pre-existing and early-expansion coverage states as well as mid-year/late adopters. They do not imply remaining states had no pre-2014 adult benefits. No manuscript or author/cover files belong in this module.
+
+## Manuscript figure
+
+`event_study.pdf` is a vector figure with embedded Arial fonts, generated from `event_study.csv`. To regenerate, install matplotlib and Arial, then run `python make_event_pdf.py`; alternatively supply `--arial-dir /path/to/Arial/fonts`. The script fails rather than silently substituting a different font. Font files are not redistributed. The normalized 2013 reference is an open marker, and intervals are pointwise rather than simultaneous.
