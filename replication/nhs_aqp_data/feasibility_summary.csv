@@ -1,0 +1,2 @@
+archive_cells_expected,archive_cells_found,first_month,last_month,parsed_workbooks,parse_errors,panel_rows,distinct_normalized_ccgs,late_cohorts_exactly_observed,late_cohorts_total
+32,32,2013-04-01,2014-07-01,32,0,6754,212,18,18

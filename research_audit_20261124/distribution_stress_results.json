@@ -1,0 +1,40 @@
+{
+  "seed": 20261124,
+  "attempts": 1500,
+  "tested": 1495,
+  "skipped_no_root_or_near_cutoff": 5,
+  "stable_corner_cases": 1147,
+  "families": {
+    "exponential": 499,
+    "logarithmic": 497,
+    "shifted_power": 499
+  },
+  "max_absolute_errors": {
+    "adoption": 1.1205312011597357e-07,
+    "welfare": 3.1589197702075467e-07,
+    "fiscal": 1.2970390717015334e-07,
+    "capacity": 1.0132874983526108e-08,
+    "constraint": 4.4181325264958105e-13
+  },
+  "sign_failures": 0,
+  "cases_with_negative_marginal_fiscal_cost": 18,
+  "ranking_counts_artificial_design_not_probabilities": {
+    "subsidy": 606,
+    "capacity": 889
+  },
+  "counterexamples": {
+    "negative_total_adoption": {
+      "trial": 57,
+      "group": 2,
+      "total_derivative": -0.0008756191626203367,
+      "own_derivative": 0.00424942160881757
+    },
+    "negative_marginal_fiscal_cost": {
+      "trial": 235,
+      "group": 3,
+      "E_s": -0.02410804313527303
+    }
+  },
+  "pass": true,
+  "scope": "Finite numerical stress grid; neither proof of global policy optimality nor empirical calibration. Positive-weight limiting demand is required for a positive-load equilibrium."
+}

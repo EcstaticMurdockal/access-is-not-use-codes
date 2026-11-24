@@ -1,0 +1,9 @@
+measure,value,unit,source_table,period_or_date,definition_caution,source_url
+active_clients,834048,distinct_clients,Table_3,2024-07-01_to_2025-06-30,At_least_one_paid_service_not_new_adopters,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+devices,446226,devices,Table_6,2024-07-01_to_2025-06-30,Includes_hearing_aids_and_ALDs_fitted_replaced_or_spare_not_unique_people,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+fitting,201610,claims,Table_4,2024-07-01_to_2025-06-30,Not_devices_or_standardized_service_hours,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+maintenance,519989,claims,Table_4,2024-07-01_to_2025-06-30,Not_unique_recipients_or_service_hours,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+rehabilitation,11207,claims,Table_4,2024-07-01_to_2025-06-30,Billing_category_not_all_support_received,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+review,420136,claims,Table_4,2024-07-01_to_2025-06-30,Not_unique_recipients_or_service_hours,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+sites,3510,business_sites,Table_7,report_effective_2025-07-24,Includes_permanent_and_visiting_sites_not_capacity,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf
+practitioners,3619,active_practitioners,Table_7_note,2025-07-24,Headcounts_not_available_professional_minutes,https://www.health.gov.au/sites/default/files/2025-08/hearing-services-program-statistics-2024-25_0.pdf

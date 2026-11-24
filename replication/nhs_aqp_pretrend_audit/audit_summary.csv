@@ -1,0 +1,2 @@
+monitor_rows_parsed,monitor_no_rows,panel_ccgs_with_monitor_status,panel_ccgs_without_monitor_status,warning
+211,86,211,1,"Monitor status is a research snapshot, not a longitudinal registry."

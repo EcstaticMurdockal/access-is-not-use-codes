@@ -1,0 +1,28 @@
+[
+  {
+    "case": "zero-adoption group; admissible nonnegative subsidies",
+    "n": [
+      0.18791409477757615,
+      0.0
+    ],
+    "max_absolute_derivative_error": 7.10270731119067e-12
+  },
+  {
+    "case": "full-adoption numerical stress; subsidy above price",
+    "n": [
+      0.5,
+      0.5
+    ],
+    "max_absolute_derivative_error": 2.031666501700613e-12
+  },
+  {
+    "case": "stock-flow code-domain corner s=0.6",
+    "adoption": 0.5,
+    "max_absolute_derivative_error": 0.0
+  },
+  {
+    "case": "stock-flow code-domain corner s=-0.6",
+    "adoption": 0.0,
+    "max_absolute_derivative_error": 0.0
+  }
+]

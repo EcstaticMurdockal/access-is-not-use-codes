@@ -1,0 +1,20 @@
+manuscript_result,generator,inputs,outputs,command,interpretation
+Figure 1,supplied fixed artwork,core equations and figure notes,figures/model_mechanism_illustrated.png,fixed asset,Mechanism illustration; not empirical output
+Figure 2,publication_diagrams.py,illustrative uniform-type primitives,figures/equilibrium_capacity_feedback.pdf,python build_visuals.py,Single selected shared pool
+Figure 3,make_paper_figures.py,K=0.6; hbar=1,figures/capacity_regimes.pdf,python build_visuals.py,Illustrative slack/binding geometry
+Figure 4,make_paper_figures.py,HSP transcribed CSVs and explicitly encoded series,figures/hsp_multiyear_descriptive.pdf,python build_visuals.py,Counts/claims/headcounts; not effective capacity
+Figure 5,visual_audit_additions.py,NHANES documented sample definitions,figures/nhanes_sample_flow.pdf,python build_visuals.py,"Sequential restrictions, not causal transitions"
+Figure 6,make_paper_figures.py,nhanes_reproduction_results.json,figures/nhanes_access_use_association.pdf,python build_visuals.py,"Selected-user association, not causal effect"
+Figure 7,tikz/causal_evidence_map.tex,cited evidence; authored diagram,figures/causal_evidence_map.pdf,python build_visuals.py,Proposed causal links with evidence limits
+Figure 8,make_paper_figures.py,illustrative benchmark primitives,figures/benchmark_access_support_tradeoff.pdf,python build_visuals.py,Not calibrated welfare optimum
+Figure 9,make_paper_figures.py,illustrative heterogeneous primitives,figures/heterogeneity_policy_effects.pdf,python build_visuals.py,Not group-specific empirical estimates
+Figure 10,visual_audit_additions.py,illustrative model primitives,figures/policy_returns_per_dollar.pdf,python build_visuals.py,Positive marginal fiscal denominator required
+Figure 11,publication_diagrams.py,illustrative request and capacity identities,figures/requested_delivered_capacity.pdf,python build_visuals.py,Requested support differs from capacity
+Figure 12,visual_audit_additions.py,illustrative use/benefit accounting,figures/use_benefit_channels.pdf,python build_visuals.py,Endpoints cannot be pooled
+Model derivatives and heterogeneous table,verify_models.py; verify_models_round28.py,explicit illustrative primitives,verification_results.json; heterogeneity_table.tex,python reproduce_all.py --analysis-only,Analytical checks; artificial primitives
+NHANES main estimates,reproduce_nhanes_access_use.py,nhanes_raw/P_AUQ.xpt; P_AUX.xpt; P_DEMO.xpt,nhanes_reproduction_results.json,python reproduce_all.py --analysis-only,n=197; OR=2.816264656159935
+Appendix H sensitivity,research_audit_20261124/nhanes_sensitivity.py,same three NHANES XPT files,research_audit_20261124/nhanes_sensitivity_results.csv; nhanes_sensitivity_results.json,python reproduce_all.py --analysis-only,All 13 specifications; manuscript shows selected rows
+Generalized model audit,research_audit_20261124/distribution_stress.py,seed 20261124; synthetic primitives,research_audit_20261124/distribution_stress_results.json; distribution_stress_cases.json,python reproduce_all.py --analysis-only,1495 accepted; 5 excluded; zero sign failures
+Stable-corner regression,research_audit_20261124/corner_regression.py,synthetic corner cases,research_audit_20261124/corner_regression_results.json,python reproduce_all.py --analysis-only,Cutoff transitions require one-sided analysis
+AQP raw panel,replication/build_nhs_aqp_panel.py,32 XLS files and download_manifest.csv,replication/nhs_aqp_data/ccg_month_panel.csv,python replication/build_nhs_aqp_panel.py --offline,6754 rows; 76 columns
+AQP design diagnostics,replication/audit_nhs_aqp_pretrends.py,reconstructed panel; monitor_aqp_annexes.txt,replication/nhs_aqp_pretrend_audit/,python reproduce_all.py --analysis-only,Provisional timing; not a treatment-effect estimate

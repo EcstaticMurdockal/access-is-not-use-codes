@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.fmt
+reproduction_run/
+replication/nhs_aqp_pretrend_audit/*.png

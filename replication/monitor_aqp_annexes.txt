@@ -1,0 +1,1739 @@
+NHS adult hearing services in England: exploring how
+choice is working for patients
+Annexes
+
+
+
+
+                            1
+Contents
+Annex 1: Commissioning areas in England that have introduced patient choice and those that
+have not................................................................................................................................................... 3
+Annex 2: Stakeholder engagement ......................................................................................................... 9
+Annex 3: Case studies examining how the introduction of choice has impacted patients’ access
+to services ............................................................................................................................................. 13
+Annex 4: Analysis of commissioner data on waiting times for adult hearing services .......................... 40
+Annex 5: IQIPS accreditation ................................................................................................................ 50
+
+
+
+
+                                                                             2
+Annex 1: Commissioning areas in England that have introduced
+patient choice and those that have not
+Based on our web research and discussions with commissioners, we estimate that
+125 of the 211 clinical commissioning groups (CCGs) in England have introduced
+choice in adult hearing services using the any qualified provider approach. The
+following table lists the CCGs that have introduced choice in adult hearing services
+and those that have not.
+
+ Commissioner                                           Patient         Date of
+                                                        choice       introduction
+ NHS Airedale, Wharfedale and Craven CCG                  no               -
+ NHS Ashford CCG                                          yes         01/07/2014
+ NHS Aylesbury Vale CCG                                   yes         01/04/2013
+ NHS Barking & Dagenham CCG                               no               -
+ NHS Barnet CCG                                           yes         01/04/2013
+ NHS Barnsley CCG                                         no               -
+ NHS Basildon and Brentwood CCG                           no               -
+ NHS Bassetlaw CCG                                        no               -
+ NHS Bath and North East Somerset CCG                     no               -
+ NHS Bedfordshire CCG                                     yes         01/04/2013
+ NHS Bexley CCG                                           yes         01/10/2012
+ NHS Birmingham Cross City CCG                            yes         01/11/2012
+ NHS Birmingham South and Central CCG                     yes         01/09/2012
+ NHS Blackburn with Darwen CCG                            yes      before March 2013
+ NHS Blackpool CCG                                        yes         01/10/2012
+ NHS Bolton CCG                                           yes         01/09/2012
+ NHS Bracknell and Ascot CCG                              yes          not known
+ NHS Bradford City CCG                                    no               -
+ NHS Bradford Districts CCG                               no               -
+ NHS Brent CCG                                            yes         01/11/2013
+ NHS Brighton & Hove CCG                                  yes         01/02/2013
+ NHS Bristol CCG                                          yes         01/02/2013
+ NHS Bromley CCG                                          yes         01/10/2012
+ NHS Bury CCG                                             yes         01/09/2012
+ NHS Calderdale CCG                                       yes         01/04/2013
+ NHS Cambridgeshire and Peterborough CCG                  no               -
+ NHS Camden CCG                                           yes         01/04/2013
+ NHS Cannock Chase CCG                                    yes         01/10/2012
+ NHS Canterbury and Coastal CCG                           yes         01/07/2014
+ NHS Castle Point, Rayleigh and Rochford CCG              no               -
+
+
+
+                                           3
+Commissioner                                     Patient       Date of
+                                                 choice     introduction
+NHS Central London (Westminster) CCG              yes        17/12/2012
+NHS Central Manchester CCG                        yes        01/09/2012
+NHS Chiltern CCG                                  yes        01/01/2012
+NHS Chorley and South Ribble CCG                  yes        01/12/2012
+NHS City and Hackney CCG                          yes        01/04/2014
+NHS Coastal West Sussex CCG                       yes        not known
+NHS Corby CCG                                      no             -
+NHS Coventry and Rugby CCG                        yes        01/10/2012
+NHS Crawley CCG                                   yes        not known
+NHS Croydon CCG                                    no             -
+NHS Cumbria CCG                                    no             -
+NHS Darlington CCG                                yes        01/09/2012
+NHS Dartford, Gravesham and Swanley CCG            no             -
+NHS Doncaster CCG                                  no             -
+NHS Dorset CCG                                     no             -
+NHS Dudley CCG                                    yes        01/10/2012
+NHS Durham Dales, Easington and Sedgefield CCG    yes        01/09/2012
+NHS Ealing CCG                                    yes        01/11/2013
+NHS East and North Hertfordshire CCG               no             -
+NHS East Lancashire CCG                           yes        01/04/2014
+NHS East Leicestershire and Rutland CCG            no             -
+NHS East Riding of Yorkshire CCG                   no             -
+NHS East Staffordshire CCG                        yes        01/09/2012
+NHS East Surrey CCG                                no             -
+NHS Eastbourne, Hailsham and Seaford CCG          yes        01/12/2012
+NHS Eastern Cheshire CCG                          yes        01/04/2014
+NHS Enfield CCG                                   yes        01/04/2013
+NHS Erewash CCG                                   yes        02/01/2012
+NHS Fareham and Gosport CCG                       yes        not known
+NHS Fylde & Wyre CCG                              yes        01/04/2014
+NHS Gateshead CCG                                 yes        01/01/2013
+NHS Gloucestershire CCG                            no             -
+NHS Great Yarmouth & Waveney CCG                   no             -
+NHS Greater Huddersfield CCG                      yes        not known
+NHS Greater Preston CCG                           yes        01/12/2012
+NHS Greenwich CCG                                 yes        01/12/2012
+NHS Guildford and Waverley CCG                     no             -
+NHS Halton CCG                                    yes      unknown date in
+                                                                2013
+
+                                          4
+Commissioner                                  Patient      Date of
+                                              choice    introduction
+NHS Hambleton, Richmondshire and Whitby CCG     no           -
+NHS Hammersmith and Fulham CCG                 yes      01/12/2012
+NHS Hardwick CCG                               yes      01/10/2012
+NHS Haringey CCG                                no           -
+NHS Harrogate and Rural District CCG            no           -
+NHS Harrow CCG                                 yes      01/11/2013
+NHS Hartlepool and Stockton-on-Tees CCG        yes      01/06/2012
+NHS Hastings & Rother CCG                      yes      01/12/2012
+NHS Havering CCG                                no           -
+NHS Herefordshire CCG                          yes      01/10/2012
+NHS Herts Valleys CCG                           no           -
+NHS Heywood, Middleton & Rochdale CCG          yes      01/09/2012
+NHS High Weald Lewes Havens CCG                yes      01/12/2012
+NHS Hillingdon CCG                             yes      01/11/2013
+NHS Horsham and Mid Sussex CCG                 yes       not known
+NHS Hounslow CCG                               yes      01/11/2013
+NHS Hull CCG                                    no           -
+NHS Ipswich and East Suffolk CCG                no           -
+NHS Isle of Wight CCG                           no           -
+NHS Islington CCG                               no           -
+NHS Kernow                                     yes      01/04/2013
+NHS Kingston CCG                                no           -
+NHS Knowsley CCG                               yes      01/10/2012
+NHS Lambeth CCG                                yes      01/04/2013
+NHS Lancashire North CCG                       yes      01/10/2012
+NHS Leeds North CCG                             no           -
+NHS Leeds South and East CCG                    no           -
+NHS Leeds West CCG                              no           -
+NHS Leicester City CCG                          no           -
+NHS Lewisham CCG                               yes      01/12/2012
+NHS Lincolnshire East CCG                       no           -
+NHS Lincolnshire West CCG                       no           -
+NHS Liverpool CCG                              yes      01/02/2013
+NHS Luton CCG                                  yes      01/06/2013
+NHS Mansfield & Ashfield CCG                    no           -
+NHS Medway CCG                                  no           -
+NHS Merton CCG                                  no           -
+NHS Mid Essex CCG                               no           -
+
+
+                                          5
+Commissioner                               Patient      Date of
+                                           choice    introduction
+NHS Milton Keynes CCG                        no           -
+NHS Nene CCG                                 no           -
+NHS Newark & Sherwood CCG                    no           -
+NHS Newbury and District CCG                yes      02/01/2013
+NHS Newcastle North and East CCG             no           -
+NHS Newcastle West CCG                       no           -
+NHS Newham CCG                               no           -
+NHS North & West Reading CCG                yes       not known
+NHS North Derbyshire CCG                    yes      02/01/2012
+NHS North Durham CCG                        yes       not known
+NHS North East Essex CCG                     no           -
+NHS North East Hampshire and Farnham CCG    yes      01/01/2013
+NHS North East Lincolnshire CCG              no           -
+NHS North Hampshire CCG                     yes      01/09/2012
+NHS North Kirklees CCG                      yes      01/04/2014
+NHS North Lincolnshire CCG                   no           -
+NHS North Manchester CCG                    yes      01/09/2012
+NHS North Norfolk CCG                       yes      01/05/2013
+NHS North Somerset CCG                      yes      01/12/2012
+NHS North Staffordshire CCG                 yes      01/04/2012
+NHS North Tyneside CCG                       no           -
+NHS North West Surrey CCG                    no           -
+NHS North, East, West Devon CCG             yes      01/02/2013
+NHS Northumberland CCG                       no           -
+NHS Norwich CCG                             yes      01/04/2013
+NHS Nottingham City CCG                      no           -
+NHS Nottingham North & East CCG              no           -
+NHS Nottingham West CCG                      no           -
+NHS Oldham CCG                              yes      01/09/2012
+NHS Oxfordshire CCG                         yes      01/03/2013
+NHS Portsmouth CCG                          yes       not known
+NHS Redbridge CCG                            no           -
+NHS Redditch and Bromsgrove CCG             yes      01/10/2012
+NHS Richmond CCG                             no           -
+NHS Rotherham CCG                            no           -
+NHS Rushcliffe CCG                           no           -
+NHS Salford CCG                             yes      01/09/2012
+NHS Sandwell and West Birmingham CCG        yes       not known
+
+
+                                       6
+Commissioner                                       Patient      Date of
+                                                   choice    introduction
+NHS Scarborough and Ryedale CCG                      no           -
+NHS Sheffield CCG                                    no           -
+NHS Shropshire CCG                                  yes      01/10/2012
+NHS Slough CCG                                      yes       not known
+NHS Solihull CCG                                    yes      01/10/2012
+NHS Somerset CCG                                     no           -
+NHS South Cheshire CCG                              yes      01/04/2013
+NHS South Devon and Torbay CCG                      yes      01/03/2013
+NHS South East Staffs and Seisdon and Peninsular    yes      01/11/2012
+CCG
+NHS South Eastern Hampshire CCG                     yes       not known
+NHS South Gloucestershire CCG                       yes      01/10/2012
+NHS South Kent Coast CCG                            yes      01/07/2014
+NHS South Lincolnshire CCG                           no           -
+NHS South Manchester CCG                            yes      01/09/2012
+NHS South Norfolk CCG                               yes      01/05/2013
+NHS South Reading CCG                               yes       not known
+NHS South Sefton CCG                                yes      01/10/2012
+NHS South Tees CCG                                  yes       not known
+NHS South Tyneside CCG                              yes      01/01/2013
+NHS South Warwickshire CCG                          yes      01/10/2012
+NHS South West Lincolnshire CCG                      no           -
+NHS South Worcestershire CCG                        yes      01/10/2012
+NHS Southampton CCG                                 yes      01/11/2012
+NHS Southend CCG                                     no           -
+NHS Southern Derbyshire CCG                         yes      02/01/2012
+NHS Southport and Formby CCG                        yes      01/10/2012
+NHS Southwark CCG                                   yes      01/04/2013
+NHS St Helens CCG                                   yes      01/10/2012
+NHS Stafford and Surrounds CCG                      yes      01/10/2012
+NHS Stockport CCG                                   yes      01/09/2012
+NHS Stoke on Trent CCG                              yes      01/09/2012
+NHS Sunderland CCG                                  yes      01/01/2013
+NHS Surrey Downs CCG                                 no           -
+NHS Surrey Heath CCG                                 no           -
+NHS Sutton CCG                                       no           -
+NHS Swale CCG                                        no           -
+NHS Swindon CCG                                      no           -
+NHS Tameside and Glossop CCG                        yes      01/09/2012
+
+                                         7
+Commissioner                                Patient      Date of
+                                            choice    introduction
+NHS Telford & Wrekin CCG                     yes      01/10/2012
+NHS Thanet CCG                                no           -
+NHS Thurrock CCG                              no           -
+NHS Tower Hamlets CCG                         no           -
+NHS Trafford CCG                             yes      01/09/2012
+NHS Vale of York CCG                          no           -
+NHS Vale Royal CCG                           yes       not known
+NHS Wakefield CCG                            yes      01/01/2013
+NHS Walsall CCG                              yes      01/10/2012
+NHS Waltham Forest CCG                        no           -
+NHS Wandsworth CCG                           yes       not known
+NHS Warrington CCG                            no           -
+NHS Warwickshire North CCG                   yes      01/10/2012
+NHS West Cheshire CCG                         no           -
+NHS West Essex CCG                            no           -
+NHS West Hampshire CCG                       yes      01/09/2012
+NHS West Kent CCG                             no           -
+NHS West Lancashire CCG                      yes       not known
+NHS West Leicestershire CCG                   no           -
+NHS West London (K&C & QPP) CCG              yes      01/11/2013
+NHS West Norfolk CCG                          no           -
+NHS West Suffolk CCG                          no           -
+NHS Wigan Borough CCG                        yes      01/10/2012
+NHS Wiltshire CCG                             no           -
+NHS Windsor, Ascot and Maidenhead CCG        yes       not known
+NHS Wirral CCG                               yes      01/07/2013
+NHS Wokingham CCG                            yes       not known
+NHS Wolverhampton CCG                        yes      01/01/2013
+NHS Wyre Forest CCG                          yes      01/10/2012
+
+
+
+
+                                        8
+Annex 2: Stakeholder engagement
+On 8 July 2014, we publicly announced the launch of the project and invited views
+from patients, patient groups, commissioners, GPs, providers of adult hearing
+services and other interested parties on how choice and AQP are working in adult
+hearing services.1 A questionnaire was developed to help guide stakeholders’
+submissions, which was available online and in hard copy. The consultation closed
+on 4 September 2014.
+
+Throughout the project, we also spoke to a broad range of stakeholders with an
+interest in adult hearing services, including patient groups, commissioners, providers
+and professional bodies. Some had submitted evidence to the project and we
+wanted to follow-up on particular points raised. We also spoke to some who had not
+made a submission to ensure their experiences and views were captured in the
+project. We also visited a number of providers’ hearing clinics.
+
+As a result of this engagement, we gathered views from:
+
+       around 390 patients, including patients living in areas where choice had been
+        introduced in adult hearing services and those where it had not
+       12 patient groups and hearing loss charities, including those operating at both
+        the national and/or local level
+       33 commissioners, many of which had decided to introduce choice in adult
+        hearing services
+       110 providers (including their representative bodies), including a broad range
+        of NHS providers, social enterprises, independent sector and third sector
+        providers. Some operate at a national and/or local level, and in areas with
+        and/or without choice
+       30 GPs, including GPs in practices in areas where commissioners had
+        introduced choice and in areas where they had not
+       around 40 other stakeholders.
+
+We list below those patient groups and charities, commissioners, providers and other
+stakeholders with whom we engaged and who were content to be named. Some
+stakeholders provided views anonymously and asked us not to name them, so are
+not listed below.
+
+Patient groups and charities
+
+       Action on Hearing Loss
+       Age UK
+       Cambridgeshire Hearing Help
+
+1
+    See: www.gov.uk/government/consultations/nhs-adult-hearing-services-in-england-how-any-
+    qualified-provider-is-working-for-patients
+
+
+                                                9
+     Deaf Health Champions
+     Deafconnect
+     dDeaflinks, Staffordshire
+     Ear Foundation
+     Healthwatch (Stockport)
+     Hearing Help
+     Hearing Link
+     The National Association of Deafened People
+     SENSE
+
+Providers
+
+     AgeUK Hearing Aids
+     Aintree University Hospital NHS Foundation Trust
+     Alistair Kinsey ltd
+     Amplifon
+     Barnsley Hospital NHS Foundation Trust
+     Bedford Hospital NHS Trust
+     Berkshire Healthcare NHS Foundation Trust
+     Boots Hearingcare Ltd
+     Broom Reid & Harris
+     Burton Hospitals NHS Foundation Trust
+     Central and West London NHS Foundation Trust
+     Chear Ltd
+     Chime Social Enterprise CIC
+     Click Hearing at Springfield Hospital (Ramsay group)
+     Costco Wholesale
+     County Durham and Darlington NHS Foundation Trust
+     Doncaster & Bassetlaw Hospitals NHS Foundation Trust
+     Dudley Group NHS Foundation Trust
+     Ealing Hospital NHS Trust
+     First Community Health & Care
+     GP Care
+     Guy's and St Thomas' NHS Foundation Trust
+     Hampshire Hospitals NHS Foundation Trust
+     Hinchingbrooke (Hospital NHS Trust)
+     Holme Valley Hearing Aid Centre
+     Kellear Hearing
+     Kemptown Healthcare Ltd
+     Kingston Hospital NHS Foundation Trust
+     Mid-Cheshire NHS Foundation Trust
+     Norfolk & Norwich University Hospitals NHS Foundation Trust
+
+
+                                       10
+     North Manchester General Hospital
+     Nottingham University Hospital
+     Regional Hearing Specialists Ltd
+     Royal Sussex County Hospital Audiology Department
+     Salford Royal NHS Foundation Trust
+     Scrivens Limited (trading as Scrivens Opticians and Hearing Care)
+     SHC AUDIOLOGY LTD
+     South Essex Partnership University NHS Foundation Trust
+     South Tees Hospitals NHS Foundation Trust
+     Specsavers Hearcare
+     The Dudley Group NHS Foundation Trust
+     The Newcastle upon Tyne Hospitals NHS Foundation Trust
+     Torbay Hospital Audiology
+     United Bristol Healthcare NHS Foundation Trust
+     University Hospital Birmingham NHS Foundation Trust
+     University Hospital of North Staffs NHS Trust
+     Wrightington, Wigan and Leigh NHS Foundation Trust
+     Yeovil District Hospital NHS Foundation Trust
+
+Commissioners
+
+     Bath and North Somerset CCG
+     Brighton and Hove CCG
+     Bromley CCG
+     Cambridgeshire and Peterborough CCG
+     Canterbury and Costal CCG
+     Doncaster CCG
+     East Staffordshire CCG
+     Erewash CCG
+     Hartlepool and Stockton-on-Tees CCG
+     Milton Keynes CCG
+     North East London CSU
+     North Norfolk CCG
+     North of England CSU
+     Northern, Eastern and Western Devon CCG
+     Oldham CCG
+     Oxfordshire CCG
+     Solihull CCG
+     South CSU
+     South East Staffs and Seisdon Peninsula CCG
+     Southern Derbyshire CCG
+     South-West Lincolnshire CCG
+
+
+                                       11
+     Stockport CCG
+     Waltham Forest CCG
+
+Other stakeholders
+
+     AQP Support Hub
+     British Academy of Audiology
+     British Society of Audiologists
+     British Society of Hearing Aid Audiologists
+     Department of Health
+     National Community Hearing Association
+     NHS Clinical Commissioners
+     NHS England
+     NHS Partners Network
+     Public Health England
+     Royal College of Physicians
+     Shropshire Deaf and Hard of Hearing Forum
+     Thorpe Salvin Luncheon Club
+     UKAS
+
+
+
+
+                                       12
+Annex 3: Case studies examining how the introduction of choice
+has impacted patients’ access to services
+In this annex, we set out our analysis exploring whether introducing patient choice
+has:
+
+       improved the accessibility of services by moving them closer to people’s
+        homes
+
+       increased the number of providers and service locations that patients could
+        choose from.
+
+We explore four different geographic areas of England where patient choice has
+been introduced by the respective local commissioners:
+
+       NHS North Norfolk CCG, NHS South Norfolk CCG and NHS Norwich CCG
+
+       NHS Brighton and Hove CCG
+
+       NHS Oxfordshire CCG
+
+       NHS South Tees CCG and NHS Hartlepool and Stockton-on-Tees CCG.
+
+Below, we describe the methodology adopted for this research.
+
+Methodology
+
+    (a) The impact of choice on the accessibility of adult hearing services
+
+As a measure of accessibility, we examine the change in the proximity of services to
+patients’ homes. In our view, this is likely to be an important driver of accessibility for
+services like adult hearing services which are used by an older segment of the
+population. The patient survey results suggest that ease of getting to services is
+valued by patients and can be an influential factor in their choice of provider. 2
+
+We assume for the purposes of the analysis that the shorter the distance between
+patients and an adult hearing service provider site, the easier the service is to get to.
+We use the location of GP practices as a proxy for patients’ homes since patients
+are likely to choose a practice that is close to home.
+
+As a measure of accessibility, we examined how many GP practices were within a
+particular drive-time of at least one provider’s site. We did so both before and after
+the introduction of patient choice. This allows us to understand the impact of
+introducing choice on accessibility.
+
+
+
+2
+    See the patient survey report, pages 21-22 (see also Figure 14).
+
+
+                                                  13
+We used different drive-time thresholds for urban and rural areas to reflect the
+willingness of patients to travel further for treatment in rural areas.3
+
+    (b) The impact of choice on the options available to patients
+
+In order to measure how the introduction of choice has affected the options available
+to patients, we identified the number of provider organisations and sites located
+within a particular drive-time from patient locations. Again, we used GP practices as
+a proxy for patient locations, and we used different drive-time thresholds for urban
+and rural areas.
+
+The impact of choice on the accessibility of adult hearing services
+
+This section sets out the results of our analysis on ease of access in each of the four
+areas analysed.
+
+North Norfolk, South Norfolk and Norwich CCGs
+
+North Norfolk, South Norfolk and Norwich CCGs were originally part of a wider
+commissioning area overseen by Norfolk Primary Care Trust (PCT).4 For this wider
+area and prior to the introduction of patient choice, four providers of adult hearing
+services operated from five sites. In May 2013 (shortly after the establishment of
+CCGs), North Norfolk, South Norfolk and Norwich CCGs jointly introduced patient
+choice in adult hearing services. As a result, six organisations provide the service
+from 32 sites; the Outside Clinic, a domiciliary care provider, is also available to
+patients.5 Figure 1 (overleaf) shows the location of providers’ sites both before and
+after patient choice was introduced.
+
+Figure 2 (also overleaf) shows the location of the 89 GP practices in the area and
+illustrates their proximity to providers’ sites both before and after the introduction of
+choice.6 The actual number of GP practices located within a 20-minute drive time
+both before and after the introduction of choice is presented in Table 1.
+
+Our analysis shows that the proportion of GP practices within a 20-minute drive of a
+provider’s site has increased from 53% to 92% of practices following the introduction
+
+
+3
+    This does not imply that patients would not travel a longer distance if necessary; the overall
+    assumption is that patients are better off if they travel shorter distances to access the same
+    service. We have calculated drive-times using Cadcorp SIS software.
+4
+    Norfolk PCT also included West Norfolk CCG. The geographic boundaries of the former PCT were
+    slightly different than the area represented by these four CCGs.
+5
+    Five providers qualified and eventually mobilised for the service under the patient choice
+    framework. Two additional providers in neighbouring CCGs are available to patients. We
+    understand that the CCGs sought to qualify further providers in the summer of 2014 and two
+    additional providers are likely to be available to patients in the future.
+6
+    GP practices lists for each of the four areas analysed in this appendix were obtained from the
+    Health and Social Care Information Centre (HSCIC) data on GPs, GP Practices, Nurses and
+    Pharmacies.
+
+
+                                                14
+of patient choice. This suggests that accessibility has increased significantly
+following the introduction of patient choice.
+
+Table 1: North Norfolk, South Norfolk and Norwich CCGs
+
+                                Number of              Number of       Number of GP
+                              providers in the         providers’    practices within a
+                                   area                  sites       20-min drive of a
+                                                                      provider’s site
+ Before the introduction of           4                    5             47 (53%)
+ patient choice
+ After the introduction of            6                   32             82 (92%)
+ patient choice
+Note: a total of 89 GP practices operate in the area
+
+The above analysis does not recognise the presence of the Outside Clinic, which
+started to provide a domiciliary service in the area following the introduction of
+choice. We expect its presence to improve the overall accessibility of the service
+even further, especially for housebound patients.
+
+
+
+
+                                              15
+Figure 1: North Norfolk, South Norfolk, Norwich CCGs - sites before and after patient choice was introduced
+Before the introduction of patient choice                    After the introduction of patient choice
+
+
+
+
+Providers before patient choice                   Id            Providers after patient choice                    Id
+Norfolk and Norwich University Hospitals NHS FT   1,2           Norfolk and Norwich University Hospitals NHS FT   1,2
+James Paget University Hospitals NHS FT           3             James Paget University Hospitals NHS FT           3
+The Queen Elizabeth Hospital Kings Lynn NHS FT    4             The Queen Elizabeth Hospital Kings Lynn NHS FT    4,24,25
+West Suffolk NHS FT                               5             West Suffolk NHS FT                               5
+                                                                Specsavers                                        6,11,18,20, 21,26,27
+                                                                Scrivens                                          7,8,9,10,12,13,14,15,16,17,19.
+                                                                                                                  22.23,28,29,30,31,32
+
+
+
+
+                                                        16
+Figure 2: North Norfolk, South Norfolk and Norwich CCGs − accessibility before and after patient choice was introduced
+(GP practices within a 20-minute drive away of providers’ sites)7
+Before the introduction of patient choice                      After the introduction of patient choice
+
+
+
+
+    Providers before patient choice                   Id                             Providers after patient choice                    Id
+    Norfolk and Norwich University Hospitals NHS FT   1,2                            Norfolk and Norwich University Hospitals NHS FT   1,2
+    James Paget University Hospitals NHS FT           3                              James Paget University Hospitals NHS FT           3
+    The Queen Elizabeth Hospital Kings Lynn NHS FT    4                              The Queen Elizabeth Hospital Kings Lynn NHS FT    4,24,25
+    West Suffolk NHS FT                               5                              West Suffolk NHS FT                               5
+                                                                                     Specsavers                                        6,11,18,20, 21,26,27
+                                                                                     Scrivens                                          7,8,9,10,12,13,14,15,16,17,19.
+                                                                                                                                       22.23,28,29,30,31,32
+
+
+
+7
+      The map above identifies the full range of sites contracted by North Norfolk, South Norfolk and Norwich CCGs. It therefore includes sites that are
+      contracted to provide services to patients within North Norfolk, South Norfolk and Norwich CCGs but which are located in other CCGs. For clarity we have
+      not conducted an assessment of accessibility to adult hearing services for patients in these neighbouring areas. We expect such an assessment would
+      identify a range of sites not contracted by North Norfolk, South Norfolk and Norwich CCGs which are not included in the map above.
+
+
+                                                            17
+Brighton and Hove CCG
+
+Brighton and Hove CCG broadly covers the same geographical area as Brighton and
+Hove City Teaching PCT. As a PCT, the commissioning body contracted with
+Brighton and Sussex University Hospitals NHS Trust for the provision of adult
+hearing services. The trust operated the service from six different sites, some of
+which were located outside of the PCT’s boundary. With the introduction of patient
+choice in February 2013, the local NHS trust decided not to apply for the provision of
+adult hearing services8 and three new providers were qualified for the service.
+
+These new providers offer services from seven sites in the area. Figure 3 (overleaf)
+shows the location of providers’ sites both before and after the introduction of choice.
+
+Figures 4 and 5 (overleaf) show the location of the 54 GP practices in the area and
+illustrates their proximity to providers’ sites both before and after the introduction of
+choice. The actual number of GP practices within a 10-minute and 5-minute drive of
+a provider’s site is presented in Table 2.
+
+Our analysis shows that the proportion of practices within a 10-minute drive of a
+provider’s site has increased from 93% to 98% following the introduction of choice.
+Similarly, the proportion of practices within a 5-minute drive has increased from 65%
+to 81% following the introduction of choice.
+
+Table 2: Brighton and Hove CCG
+
+                              Number of            Number of         Number of GP         Number of GP
+                             providers in          providers’          practices            practices
+                               the area              sites               within               within
+                                                                      10-min drive        5-min drive of
+                                                                          of a             a provider’s
+                                                                     provider’s site           site
+    Before the
+    introduction of                 1                      6             50 (93%)            35 (65%)
+    patient choice
+ After the
+ introduction of               3                 7                       53 (98%)            44 (81%)
+ patient choice
+Note: a total of 54 GP practices operate in the area
+
+Our results suggest that accessibility has increased slightly as a result of patient
+choice in the Brighton and Hove CCG area. This has occurred despite the sole
+provider at the time of introducing choice deciding not to apply for the provision of
+adult hearing services.
+
+8
+     Brighton and Sussex University Hospitals NHS Trust keeps treating the patients they supplied with
+     hearing aids prior to the introduction of patient choice. They will treat these patients for three years
+     following the start of the pathway. After three years they will refer the patients back to the GP.
+
+                                                      18
+Figure 3: Brighton and Hove CCG - sites before and after patient choice was introduced
+Before the introduction of patient choice                    After the introduction of patient choice
+
+
+
+
+Providers before patient choice                   Id               Providers after patient choice         Id
+Brighton and Sussex University Hospitals NHS FT   1-6              Specsavers                             1,3
+                                                                   Inhealth                               2
+                                                                   Bloom – Regional Hearing Specialists   4,5,6,7
+
+
+
+
+                                                        19
+Figure 4: Brighton and Hove CCG - accessibility before and after patient choice was introduced (GP practices within a 10-
+minute drive away of providers' sites)9
+Before the introduction of patient choice                     After the introduction of patient choice
+
+
+
+
+    Providers before patient choice                   Id                               Providers after patient choice                Id
+    Brighton and Sussex University Hospitals NHS FT   1-6                              Specsavers                                    1,3
+                                                                                       Inhealth                                      2
+                                                                                       Bloom – Regional Hearing Specialists          4,5,6,7
+
+
+
+
+9
+      The map above identifies the full range of sites contracted by Brighton and Hove CCG. It therefore includes sites that were contracted to provide services
+      to patients within Brighton and Hove CCG but which are located in other CCGs. For clarity we have not conducted an assessment of accessibility to adult
+      hearing services for patients in these neighbouring areas. We expect such an assessment would identify a range of sites in these neighbouring areas, but
+      who are not contracted by Brighton and Hove CCG (and hence not included here).
+
+                                                            20
+Figure 5: Brighton and Hove CCG - accessibility before and after patient choice was introduced (GP practices within a 5-
+minute drive away of providers' sites)10
+Before the introduction of patient choice                     After the introduction of patient choice
+
+
+
+
+  Providers before patient choice                   Id            Providers after patient choice         Id
+  Brighton and Sussex University Hospitals NHS FT   1-6           Specsavers                             1,3
+                                                                  Inhealth                               2
+                                                                  Bloom – Regional Hearing Specialists   4,5,6,7
+
+
+
+
+ 10
+      See footnote 10.
+
+                                                          21
+Oxfordshire CCG
+
+Before the introduction of patient choice, two providers delivered services in
+Oxfordshire from 13 sites.11 As a result of the introduction of patient choice in March
+2013, four organisations provide the service from 30 sites; the Outside Clinic, a
+domiciliary care provider, is also available to patients. Figure 6 (overleaf) shows the
+location of providers’ sites both before and after choice was introduced.
+
+Figures 7 and 8 (overleaf) show the location of the 99 GP practices operating in the
+area and their proximity to providers’ sites both before and after the introduction of
+choice. The actual number of GP practices located within 20-minute and 10-minute
+drives of a provider’s site is presented in Table 3.
+
+Our analysis shows that the proportion of practices within a 20-minute drive of a
+provider’s site has increased from 90% to 99% following the introduction of patient
+choice. Similarly, the proportion of GP practices within a 10-minute drive time
+increased from 56% to 72% following the introduction of choice. This suggests that
+the introduction of choice has brought benefits in terms of accessibility.
+
+Table 3: Oxfordshire CCG
+
+                                                            Number of GP         Number of GP
+                         Number of         Number of           practices            practices
+                         providers         providers’           within               within
+                                             sites          20-min drive of      10-min drive of
+                                                                 a site               a site
+ Before the
+ introduction of              2                 13              89 (90%)            55 (56%)
+ patient choice
+ After the
+ introduction of            4                30                 98 (99%)            71 (72%)
+ patient choice
+Note: a total of 99 GP practices operate in the area
+
+The above analysis does not recognise the presence of the Outside Clinic, which
+started to provide a domiciliary service in the area following the introduction of
+choice. We expect its presence to improve the overall accessibility of the service
+even further, especially for housebound patients.
+
+
+
+
+11
+     Some of the sites belonging to Royal Berkshire NHS FT are located outside the CCG area (see
+     Figure 6).
+
+                                                 22
+Figure 6: Oxfordshire CCG - sites before and after patient choice was introduced
+Before the introduction of patient choice                     After the introduction of patient choice
+
+
+
+
+ Providers before patient choice      Id                            Providers after patient choice       Id
+ Oxford University Hospital NHS FT    1,2,3,4,7,8                   Oxford University Hospital NHS FT    1,2,3,7,8,24
+ Royal Berkshire NHS FT               5,6,9,10,11, 12,13            Royal Berkshire NHS FT               5,6,9,10,11,12,13
+                                                                    Specsavers                           4,14,15,23,27,28,30
+                                                                    Scrivens                             16,17,18,19, 20,21,22,25, 26,29
+
+
+
+
+                                           23
+Figure 7: Oxfordshire CCG - accessibility before and after patient choice was introduced (GP practices within a 10-minute
+drive away of providers' sites)12
+Before the introduction of patient choice                       After the introduction of patient choice
+
+
+
+
+ Providers before patient choice               Id                                  Providers after patient choice              Id
+ Oxford University Hospital NHS FT             1,2,3,4,7,8                         Oxford University Hospital NHS FT           1,2,3,7,8,24
+ Royal Berkshire NHS FT                        5,6,9,10,11, 12,13                  Royal Berkshire NHS FT                      5,6,9,10,11,12,13
+                                                                                   Specsavers                                  4,14,15,23,27,28,30
+                                                                                   Scrivens                                    16,17,18,19, 20,21,22,25, 26,29
+
+
+
+12
+     This map shows the full range of sites contracted by Oxfordshire CCG. It includes sites that are contracted to provide services to patients within
+     Oxfordshire CCG but which are located in other CCGs. For clarity we have not conducted an assessment of accessibility in neighbouring areas. We would
+     expect such an assessment to identify a range of sites not contracted by Oxfordshire CCG and hence not listed above.
+
+                                                    24
+Figure 8: Oxfordshire CCG - accessibility before and after patient choice was introduced (GP practices within a 10-minute
+drive away of providers' sites)13
+Before the introduction of patient choice                       After the introduction of patient choice
+
+
+
+
+ Providers before patient choice     Id                         Providers after patient choice      Id
+ Oxford University Hospital NHS FT   1,2,3,4,7,8                Oxford University Hospital NHS FT   1,2,3,7,8,24
+ Royal Berkshire NHS FT              5,6,9,10,11, 12,13         Royal Berkshire NHS FT              5,6,9,10,11,12,13
+                                                                Specsavers                          4,14,15,23,27,28,30
+                                                                Scrivens                            16,17,18,19, 20,21,22,25, 26,29
+
+
+
+
+13
+     See footnote 14.
+
+                                          25
+South Tees CCG and Hartlepool and Stockton-on-Tees CCG
+Prior to the establishment of CCGs, the former Stockton-on-Tees Teaching PCT,
+Middlesbrough PCT and Redcar and Cleveland PCT jointly commissioned adult
+hearing services.
+
+Since the former Hartlepool PCT arranged the service independently, we decided to
+exclude the correspondent area from this analysis.
+
+Following the introduction of patient choice, the two providers that were previously
+providing adult hearing services qualified. They provide services from 12 sites. In
+addition, the Outside Clinic, a domiciliary care provider was also qualified and
+available to patients in the area.
+
+Figure 9 shows the location of providers’ sites in the area. Figures 10 and 11 show
+the location of the 89 GP practices operating in the area and illustrates their
+proximity to providers’ sites. The actual number of GPs within a 20-minute and 10-
+minute drive of a provider’s site is presented in Table 4.
+
+Our analysis shows that services were already relatively accessible in the area
+before choice was introduced. Before choice was introduced, all GP practices were
+located within a 20-minute drive of a provider’s site, and virtually all practices (98% )
+were located within a 10-minute drive. In our view, it is not surprising that the
+introduction of choice has led to a limited increase in the number of providers.
+
+That said, the introduction of choice has led to the entry of the Outside Clinic, which
+started to provide a domiciliary service in the area. The above analysis does not
+recognise the presence of the Outside Clinic. We expect its presence to improve the
+overall accessibility of the service, especially for housebound patients.
+
+Table 4: South Tees CCG and Hartlepool and Stockton-on-Tees CCG
+
+                                                                    Number of         Number of
+                        Number of               Number of          GP practices      GP practices
+                        providers               providers’            within            within
+                                                  sites            20-min drive      10-min drive
+                                                                     of a site         of a site
+ Before and
+ after the
+                          214                    12                  89 (100%)          87 (98%)
+ introduction of
+ patient choice
+Note: a total of 89 GP practices operate in the area
+
+
+14
+     Additionally, since services in Hartlepool are now commissioned alongside those in Stockton-on-
+     Tees and South Tees CCGs, patients in these two CCGs can access North Tees and Hartlepool
+     NHS Trust, the provider formerly contracted by Hartlepool PCT. Further analysis has shown no
+     improvements in accessibility coming as a result of this additional option.
+
+                                                  26
+Figure 9: South Tees CCG and Hartlepool and Stockton-on-Tees CCG - sites
+before and after patient choice was introduced
+
+
+
+
+ Providers before and after patient choice     Id
+South Tees NHS FT                              1,3,6,9,10
+Specsavers                                     2,4,5,7,8,11,12
+
+
+
+
+                                         27
+ Figure 10: South Tees CCG and Hartlepool and Stockton-on-Tees CCG -
+accessibility before and after patient choice was introduced (GP practices
+within a 20-minute drive away of providers' sites)
+
+
+
+
+Providers before and after patient choice         Id
+South Tees NHS FT                                 1,3,6,9,10
+Specsavers                                        2,4,5,7,8,11,12
+
+
+
+
+                                            28
+ Figure 11: South Tees CCG and Hartlepool and Stockton-on-Tees CCG -
+accessibility before and after patient choice was introduced (GP practices
+within a 10-minute drive away of providers' sites)
+
+
+
+
+Providers before and after patient choice         Id
+South Tees NHS FT                                 1,3,6,9,10
+Specsavers                                        2,4,5,7,8,11,12
+
+
+
+
+                                            29
+Conclusions on the accessibility of adult hearing services for patients
+
+      In North Norfolk, South Norfolk and Norwich CCGs accessibility has increased
+       significantly. In fact, the number of GP practices sufficiently close to at least
+       one provider site has almost doubled after the introduction of choice.
+
+      In Brighton and Hove CCG, the impact of the policy has been limited. The
+       main reason is that the number of providers’ sites has changed slightly.
+       Although, notably, our analysis does not show a reduction in the accessibility
+       of services despite the local NHS hospital deciding not to apply to provide
+       adult hearing services.
+
+      The introduction of patient choice in Oxfordshire CCG has brought some
+       improvements in terms of accessibility. In fact, a doubling in the number of
+       provider sites has brought almost a 10% increase in the number of GPs
+       sufficiently close to at least one provider’s site.
+
+      In South Tees CCG and Hartlepool and Stockton-on-Tees CCG accessibility
+       improved as a result of the addition of one provider offering domiciliary
+       services in the area. The number of sites remained the same as prior to the
+       introduction of choice, although our analysis shows that accessibility of
+       services was already relatively high before choice was introduced.
+
+
+
+
+                                           30
+Assessment on choice of providers
+
+In this section, in each of the four areas analysed, we examine whether patient
+choice has led to an increase in the number of options patients can choose from. We
+assess the options available to patients both in terms of individual provider sites and
+of distinct organisations that patients can choose from. We use the same drive-times
+adopted in the previous section as a threshold for options that are likely to be
+practical for patients to use.15
+
+The tables below show the options available to patients both before and after the
+introduction of patient choice in each area.
+
+North Norfolk, South Norfolk and Norwich CCGs
+
+Table 5 below shows that before patient choice was introduced, there were no GP
+practices within a 20-minute drive of two or more provider sites; this has increased to
+83%of practices following the introduction of choice.
+
+Table 5: Before and after patient choice – sites within 20-minute drive-time
+
+ Before patient choice                                   After patient choice
+ Number of          Number            Share              Number of         Number         Share
+ adult hearing      of GP             of GP              adult hearing     of GP          of GP
+ providers          practices         practices          providers         practices      practices
+ (sites) located                                         (sites) located
+ within the                                              within the
+ drive-time                                              drive-time
+ 0                  42                47.2%              0                 7              7.9%
+ 1                  47                52.8%              1                 8              9.0%
+                                                         2                 16             18.0%
+                                                         3                 9              10.1%
+                                                         4                 4              4.5%
+                                                         6                 3              3.4%
+                                                         9                 3              3.4%
+                                                         10                1              1.1%
+                                                         11                31             34.8%
+                                                         12                6              6.7%
+                                                         13                1              1.1%
+ Total              89                100.0%             Total             89             100.0%
+
+
+Table 6 shows that, prior to patient choice, there were no GP practices within a 20-
+minute drive away of two or more provider organisations. After the introduction of
+
+15
+     Again, this analysis does not take into account those providers that operate a domiciliary service
+     (eg the Outside Clinic).
+
+                                                    31
+patient choice, 73% are located within a 20-minute drive of two or more provider
+organisations.
+
+These results show that in North Norfolk, South Norfolk and Norwich CCGs, the
+range of providers and sites that patients can choose from has considerably
+improved.
+
+Table 6: Before and after patient choice – organisations within 20-minute drive-
+time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (organisations)                                (organisations)
+ located within                                 located within
+ the drive-time                                 the drive-time
+ 0                 42          47.2%            0                 7           7.9%
+ 1                 47          52.8%            1                 17          19.1%
+                                                2                 18          20.2%
+                                                3                 47          52.8%
+ Total             89          100.0%           Total             89          100%
+
+
+Brighton and Hove CCG
+
+Table 7 shows that, prior to patient choice, about 74% of GP practices in the area
+were located within a 10-minute drive of two or more provider sites. Following the
+introduction of choice, this has increased to 89%.
+
+Table 7: Before and after patient choice – sites within 10-minute drive-time
+
+ Before Patient Choice                          After Patient Choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (sites) located                                (sites) located
+ within the                                     within the
+ drive-time                                     drive-time
+ 0                 4           7.4%             0                 1           1.9%
+ 1                 10          18.5%            1                 5           9.3%
+ 2                 7           13.0%            2                 3           5.6%
+ 3                 30          55.6%            3                 5           9.3%
+ 4                 3           5.6%             4                 3           5.6%
+                                                5                 34          63.0%
+                                                6                 3           5.6%
+ Total             54          100.0%           Total             54          100.0%
+
+
+                                           32
+Table 8 shows that, prior to patient choice, only 7% of GP practices in the area were
+located within a 5-minute drive away of two or more provider sites. After the
+introduction of choice, this has increased to 65%.
+
+Table 8: Before and after patient choice – sites within 5-minute drive-time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (sites) located                                (sites) located
+ within the                                     within the
+ drive-time                                     drive-time
+ 0                 19          35.2%            0                 10          18.5%
+ 1                 31          57.4%            1                 9           16.7%
+ 2                 4           7.4%             2                 16          29.6%
+                                                3                 14          25.9%
+                                                4                 5           9.3%
+ Total             54          100.0%           Total             54          100.0%
+
+
+Table 9 shows that, prior to patient choice, there were no GP practices within a 10-
+minute drive away of two or more provider organisations (only one organisation
+provided the service). Following the introduction of choice, this has increased to
+94%.
+
+Table 9: Before and after patient choice - organisations within 10-minute drive-
+time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (organisations)                                (organisations)
+ located within                                 located within
+ the drive-time                                 the drive-time
+ 0                 4           7.4%             0                 1           1.9%
+ 1                 50          92.6%            1                 2           3.7%
+                                                2                 4           7.4%
+                                                3                 47          87.0%
+ Total             54          100.0%           Total             54          100.0%
+
+
+Table 10 shows that, prior to patient choice, there were no GP practices within a
+5-minute drive away of two or more provider organisations (only one organisation
+provided the service). Following the introduction of choice, this has increased
+to 59%.
+
+                                           33
+These results show that in Brighton and Hove CCG, the introduction of choice has
+increased the number of different providers that patients can choose between.
+
+Table 10: Before and after patient choice – organisations within 5-minute drive-
+time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (organisations)                                (organisations)
+ located within                                 located within
+ the drive-time                                 the drive-time
+ 0                 19          35.2%            0                 10          18.5%
+ 1                 35          64.8%            1                 12          22.2%
+                                                2                 27          50.0%
+                                                3                 5           9.3%
+ Total             54          100.0%           Total             54          100.0%
+
+
+Oxfordshire CCG
+
+Table 11 below shows that, before patient choice was introduced, about 35% of GP
+practices in the area were located within a 20-minute drive of two or more provider
+sites; this has increased to 98% of practices following the introduction of choice.
+
+Table 11: Before and after patient choice – sites within 20-minute drive-time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (sites) located                                (sites) located
+ within the                                     within the
+ drive-time                                     drive-time
+ 0                 10          10.1%            0                 1           1.0%
+ 1                 54          54.5%            1                 1           1.0%
+ 2                 26          26.3%            2                 10          10.1%
+ 3                 9           9.1%             3                 28          28.3%
+                                                4                 16          16.2%
+                                                5                 11          11.1%
+                                                6                 15          15.2%
+                                                7                 9           9.1%
+                                                8                 3           3.0%
+                                                9                 3           3.0%
+                                                10                2           2.0%
+ Total             99          100.0%           Total             99          100.0%
+
+                                           34
+Table 12 below shows that, before patient was introduced, only 2% of GP practices
+in the area were located within a 10-minute drive of two or more provider sites; this
+has increased to 67% of practices following the introduction of choice.
+
+Table 12: Before and after patient choice – sites within 10-minute drive-time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (sites) located                                (sites) located
+ within the                                     within the
+ drive-time                                     drive-time
+ 0                 44          44.4%            0                 28          28.3%
+ 1                 53          53.5%            1                 5           5.1%
+ 2                 2           2.0%             2                 16          16.2%
+                                                3                 28          28.3%
+                                                4                 22          22.2%
+ Total             99          100.0%           Total             99          100.0%
+
+
+Table 13 shows that, before patient choice was introduced, about 18% of GP
+practices in the area were located within a 20-minute drive of two or more provider
+organisations; this has increased to 91% of practices following the introduction of
+choice.
+
+Table 13: Before and after patient choice – organisations within 20-minute
+drive-time
+
+ Before patient choice                          After patient choice
+ Number of         Number      Share            Number of         Number      Share
+ adult hearing     of GP       of GP            adult hearing     of GP       of GP
+ providers         practices   practices        providers         practices   practices
+ (organisations)                                (organisations)
+ located within                                 located within
+ the drive-time                                 the drive-time
+ 0                 10          10.1%            0                 1           1.0%
+ 1                 71          71.7%            1                 8           8.1%
+ 2                 18          18.2%            2                 11          11.1%
+                                                3                 61          61.6%
+                                                4                 18          18.2%
+ Total             99          100.0%           Total             99          100.0%
+
+
+
+
+                                           35
+Table 14 shows that, prior to patient choice, there were no GP practices within a 10-
+minute drive away of two or more provider organisations; this has increased to 65%
+of practices following the introduction of choice.
+
+These results show that in Oxfordshire CCG, the range of providers and sites that
+patients can choose from has considerably improved.
+
+Table 14: Before and after patient choice – organisations within 10-minute
+drive-time
+
+ Before patient choice                                    After patient choice
+ Number of          Number            Share               Number of         Number          Share
+ adult hearing      of GP             of GP               adult hearing     of GP           of GP
+ providers          practices         practices           providers         practices       practices
+ (organisations)                                          (organisations)
+ located within                                           located within
+ the drive-time                                           the drive-time
+ 0                  44                44.4%               0                 28              28.3%
+ 1                  55                55.6%               1                 7               7.1%
+                                                          2                 15              15.2%
+                                                          3                 49              49.5%
+ Total              99                100.0%              Total             99              100.0%
+
+
+South Tees CCG and Hartlepool and Stockton-on-Tees CCG16
+
+Table 15 below shows that 97% of GP practices are within a 20-minute drive of two
+or more provider sites.
+
+Table 15: Sites within 20-minute drive-time
+
+ Number of adult hearing              Number                                Share
+ providers (sites) located            of GP practices                       of GP practices
+ within the drive-time
+ 1                                    1                                     1.1%
+ 3                                    2                                     2.2%
+ 4                                    17                                    19.1%
+ 6                                    2                                     2.2%
+ 7                                    9                                     10.1%
+ 8                                    41                                    46.1%
+ 9                                    3                                     3.4%
+
+16
+     As in the accessibility assessment we excluded the area corresponding to the former Hartlepool
+     PCT from this analysis. Nonetheless, choice in the area is likely to have improved due to
+     availability of providers based in Hartlepool after the introduction of patient choice. No before and
+     after comparison is provided as the same organisations operate the service from the same sites
+     after the introduction of choice.
+
+                                                     36
+Number of adult hearing     Number                      Share
+providers (sites) located   of GP practices             of GP practices
+within the drive-time
+10                          9                           10.1%
+11                          5                           5.6%
+Total                       89                          100.0%
+
+
+Table 16 below shows that 76% of GP practices are within a 10-minute drive of two
+or more provider sites.
+
+Table 16: Sites within 10-minute drive-time
+
+Number of adult hearing     Number                      Share
+providers (sites) located   of GP practices             of GP practices
+within the drive-time
+0                           2                           2.2%
+1                           19                          21.3%
+2                           20                          22.5%
+3                           12                          13.5%
+4                           9                           10.1%
+5                           18                          20.2%
+6                           9                           10.1%
+Total                       89                          100.0%
+
+
+Table 17 below shows that 99% of GP practices are within a 20-minute drive of two
+or more provider organisations.
+
+Table 17: Organisations within 20-minute drive-time
+
+Number of adult hearing     Number                      Share
+providers (organisations)   of GP practices             of GP practices
+located within the drive-
+time
+1                           1                           1.1%
+2                           88                          98.9%
+Total                       89                          100.0%
+
+
+Table 18 below shows that 76% of GP practices are within a 10-minute drive of two
+or more provider organisations.
+
+
+
+
+                                        37
+As already discussed, in South Tees CCG and Hartlepool and Stockton-on-Tees
+CCG, the range of providers and sites that patients can choose from has remained
+the same.17
+
+Table 18: Organisations within 10-minute drive-time
+
+ Number of adult hearing         Number                       Share
+ providers (organisations)       of GP practices              of GP practices
+ located within the drive-
+ time
+ 0                               2                            2.2%
+ 1                               19                           21.3%
+ 2                               68                           76.4%
+ Total                           89                           100.0%
+
+
+Conclusions on Choice of Providers Proximity to Patients
+
+         In North Norfolk, South Norfolk and Norwich CCGs the range of providers and
+          sites that patients can choose from has considerably improved. Prior to the
+          introduction of choice, no GP practice was sufficiently close to more than one
+          provider site or to more than one organisation. After the introduction of choice
+          83% of GP practices are located within a 20-minute drive away of two or more
+          provider’s sites and 73% of GP practices are located within a 20-minute drive
+          away of two or more organisations.
+
+         In Brighton and Hove CCG the introduction of choice has increased the
+          number of different providers that patients can choose between. Before the
+          introduction of choice only one organisation was operating the service, now
+          three organisations are active in the area and 94% of GP practices are
+          located within a 10-minute drive away of at least two of them. Despite the
+          local trust deciding to stop providing the service, the number of sites for
+          patients to choose between has increased and all of them are now within the
+          CCG area.
+
+         With the introduction of patient choice in Oxfordshire CCG, choice of providers
+          has considerably improved. 98% of GP practices are located within a 20-
+          minute drive away of two or more providers’ sites and 91% of GP practices
+          are located within a 20-minute drive away of two or more organisations.
+
+
+
+
+17
+     See footnote 15.
+
+
+                                             38
+         The number of sites to choose from in South Tees CCG and Hartlepool and
+          Stockton-on-Tees CCG has remained the same.18 However, all patients now
+          have the option of choosing an additional provider that operates the service
+          within their own home.
+
+
+
+
+18
+     See also footnote 15.
+
+                                            39
+Annex 4: Analysis of commissioner data on waiting times for adult
+hearing services
+Introduction
+
+The length of time that a patient has to wait for an assessment and the fitting of
+hearing aids (ie waiting times) is one service feature which determines how easy it is
+for patients to access a service. The evidence we reviewed suggests that waiting
+times can be of value to patients. For example, the patient survey suggests that
+patients are more likely to be dissatisfied with the service if the wait for a hearing
+assessment takes longer than five weeks after the GP referral.19
+
+This note summarises the results of our analysis of waiting times for adult hearing
+services. It explores whether waiting times have fallen faster in areas that introduced
+patient choice compared with those areas that did not.
+
+This note is structured as follows. We first report the average time that patients had
+to wait to receive a hearing assessment in 2006. We then describe how waiting
+times have changed from October 2008 to July 2014 and analyse whether
+introducing patient choice has had an impact on waiting times.
+
+Background: 2006 to 2008
+
+Evidence from DH shows that in November 2006 around 166,000 patients in
+England were waiting for an audiology assessment. Of these, over 108,000 had
+been waiting more than 13 weeks and over 80,000 more than 26 weeks. The same
+evidence shows that the expected average wait for an audiology assessment in
+December 2006 was 17−18 weeks.20
+
+It is worth noting that the period measured in this data covers only part of the wait for
+treatment (the wait between GP referral and the hearing assessment). It does not
+include the wait between the assessment and the fitting of any hearing aid(s) that
+may be required (the referral to treatment waiting time, RTT). This means that
+waiting times for patients to receive a fitting will have been longer than 17−18 weeks.
+
+These long waits were caused in part by a significant increase in the number of GP
+referrals to audiology services as a consequence of the Modernising Hearing Aid
+Services (MHAS) programme.21 This programme was sponsored by DH, and was
+intended to modernise hearing services across England. The main innovation in this
+
+19
+   See the patient survey report, page 27-28.
+20
+   DH, Improving access to audiology services in England, March 2007, page 3,
+   /www.bipsolutions.com/docstore/pdf/16176.pdf
+21
+   House of Commons, Health Committee, Audiology services, fifth report of session 2006–07, 16
+   May 2007, page 12,
+   http://www.publications.parliament.uk/pa/cm200607/cmselect/cmhealth/392/392.pdf
+
+                                               40
+programme was the introduction of digital hearing aids. The programme started in
+September 2000 and ended in 2005 when all providers of NHS services were able to
+offer digital hearing aids.
+
+Digital hearing aids are generally better performing and more comfortable to wear
+than analogue hearing aids.22 Over time this led to increased GP referrals, not only
+of new patients but also of those who wished to switch from analogue hearing aids to
+digital ones. As a consequence, existing NHS audiology service providers received
+more GP referrals and were unable to treat these patients in a timely way. Waiting
+times grew as a result.
+
+In 2007, DH made funding available for audiology. Existing providers expanded
+capacity to meet the increased demand (eg new roles were created by providers; for
+example assistants were employed specifically to set up the test rooms, so that
+audiologists could concentrate on serving patients).23 In addition, DH made funding
+available for the purchase of further capacity from the independent sector.24
+
+The increased capacity had a significant impact, and by the end of 2008 the average
+referral to treatment in audiology was on average between 6 and 10 weeks. 25
+
+Waiting times since 2008 and following the introduction of patient choice
+In October 2008, DH started to publish data on RTT waiting times for direct access
+audiology in each commissioning area in England. 26, 27, 28 This information provides
+a good approximation of waiting times for adult hearing services
+
+
+
+
+22
+   We acknowledge that digital hearing aids may not be better performing than analogue hearing aids
+   in all cases. For example, a musician wrote to us saying that the current sound quality of digital
+   hearing aids could be lower than analogue hearing aids when playing music.
+23
+   House of Commons, Health Committee, Audiology services, fifth report of session 2006-07, 16
+   May 2007, page 28,
+   http://www.publications.parliament.uk/pa/cm200607/cmselect/cmhealth/392/392.pdf
+24
+   DH, Improving Access to Audiology Services in England, March 2007, page 7,
+   http://www.bipsolutions.com/docstore/pdf/16176.pdf
+25
+   Monitor analysis of NHS England’s Direct Access Audiology Data. Data are available at:
+   http://www.england.nhs.uk/statistics/statistical-work-areas/direct-access-audiology/daa-data/
+26
+   Direct access audiology services are predominantly services for patients affected by age-related
+   hearing loss.
+27
+   In 2013, the responsibility for publishing these statistics transferred to the NHS Commissioning
+   Board (NHS England).
+28
+   Direct access audiology RTT data have been collected on a mandatory basis since April 2008 and
+   have been published since October 2008. This data does not include the entire population of
+   patients accessing direct access audiology services. It excludes those patients that, even if
+   sufficiently aged to receive a direct referral, have been first referred to an ENT department by their
+   GP and then have been re-referred to an Adult Hearing Services provider. In addition, this data
+   does not include information for those patients who failed to attend their first appointment. For
+   these patients the referral is removed from the data, provided that the provider can demonstrate
+   that the appointment was clearly communicated to the patient.
+
+                                                   41
+Unlike the pre-2008 data the information published from October 2008 onwards
+includes not only the time that patients had to wait to receive an assessment, but
+also the waiting time between the assessment and fitting. The RTT period ends with
+the fitting of hearing aids following the hearing assessment (or with the assessment if
+the patient does not require the fitting of a hearing aid).
+
+Data description and methodology
+
+In our analysis we use two sets of data collected by DH: completed pathways and
+incomplete pathways.29
+
+Ideally, to measure the average waiting times on a monthly basis it would be
+necessary to have information on the average RTT waiting time for the set of
+patients that is referred each month. However, we are not aware of a dataset that
+records this information. The completed pathways dataset measures the average
+RTT wait for those patients whose treatment was completed within the reporting
+month.30 As a consequence, it does not provide any information on the length of wait
+for those patients who have not yet been treated (even if they have been waiting for
+more than 52 weeks). Using this dataset would mean that areas with large numbers
+of untreated patients might misleadingly appear to have short average wait. In
+contrast, the incomplete pathways dataset provides information on the length of wait
+for all patients who are still waiting for a treatment at the end of the reporting
+month.31 While this is not an RTT waiting time it does include all patients and is
+therefore a more accurate representation of the average patient’s experience of
+waiting times.
+
+The incomplete pathway dataset reports incomplete waiting times in weekly bands
+without specifying the exact number of days the patient has been waiting at the end
+of the reporting month. This means that if at the end of the month the patient has
+been waiting for 15 days or for 20 days this will in both cases be recorded as 2−3
+weeks. We approximate the length of the wait to the weekly mid-point. For example,
+
+
+29
+   See NHS England, Direct Access Audiology Data, www.england.nhs.uk/statistics/statistical-work-
+   areas/direct-access-audiology/daa-data/
+30
+   The length of the wait in the completed pathways dataset is measured from the date the referral
+   takes place to the date where the patient receives the required treatment. The length of wait is
+   reported in weekly bands (ie 0-1 weeks, 1-2 weeks, … 17-18 weeks, 18-19 weeks, …51-52 weeks,
+   52 weeks). If, for example, the referral is made on the 1 January 2011 and the fitting takes place
+   on the 17 January of the same year, the length of the wait is 16 days and the patient will be
+   reported as having waited 2-3 weeks. The incomplete pathways dataset reports each month the
+   length of the wait so far for patients whose assessment has not occurred by the last day of the
+   month.
+31
+   The length of wait in the incomplete pathways dataset is measured from the date the referral takes
+   place to the last day of the month. Again the length of wait is reported in weekly bands. If, for
+   example, the referral is made on 1 January 2011 and the fitting has not yet taken place on 31
+   January of the same year, the length of the wait is 30 days and the patient will be reported as
+   having waited 4−5 weeks so far.
+
+                                                 42
+if a patient is recorded in the 2−3 weeks band we assume that at the end of the
+month this patient has been waiting for 2.5 weeks.
+
+In what follows we present our analysis of monthly average incomplete waiting times
+at a commissioner level (PCT until April 2013 and CCG afterwards). For each PCT
+and CCG we first calculate the average incomplete waiting time for all the patients in
+that PCT or CCG who were waiting for treatment at the end of the month. We then
+use these averages to calculate average incomplete waiting times for: all PCTs and
+CCGs in England; all CCGs that introduced patient choice; and, all CCGs that did
+not introduce patient choice.32 Finally we weight these averages by the number of
+patients who at the end of each month are still waiting for treatment.33
+
+Analysis and findings
+
+We analysed the waiting time data to understand whether and how waiting times
+have changed over the period October 2008 to July 2014. We also compared areas
+where choice has been introduced and those where it has not to see whether there
+was a difference in average incomplete waiting times between the two areas. Figure
+2 illustrates the average incomplete waiting times for direct access audiology
+services on a monthly basis over the period October 2008 to July 2014.34 The figure
+shows that incomplete waiting times fell in 2009 and in the first half of 2010, reaching
+a minimum of 4.7 weeks in April 2010.
+
+
+
+
+32
+   In our analysis we excluded East Surrey CCG. We considered this CCG to be an outlier on the
+   basis of extremely high waiting times characterising it in the first part of the covered period.
+33
+   For example, let’s assume that patient choice was introduced in only two CCGs. If in the first CCG
+   we find that the at the end of the month there 20 are patients on the waiting list for an average of
+   5-6 weeks, and in the second CCG at the end of the month there are 30 patients on the waiting list
+   with a waiting time of an average of 2−3 weeks, the weighted average incomplete wait for the
+   CCGs that introduced patient choice would be: ((20/50)x5.5)+((30/50)x2.5) =3.7weeks.
+34
+   In the figure we plot a 5-month moving average. This is conducted to ensure that the trend is
+   visually smooth and hence more comprehensible.
+
+                                                  43
+Figure 2 : Monthly average incomplete waiting times, England (Oct 08 – Jul 14)
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+From May 2010 until the end of 2011 incomplete waiting times increased. In
+December 2011 the average incomplete waiting time was 5.8 weeks. In 2012 the
+average incomplete wait decreased again and in the last two years it stabilised at
+around 5 weeks. The average incomplete waiting time in July 2014 was 4.8 weeks.
+
+We found that these changes in waiting times happened over a period where GP
+referrals for direct access audiology services increased significantly. Table 3 shows
+that between 2009 and 2013 the number of referrals for direct access audiology
+services in England increased on average by 4% on an annual basis and overall by
+16%.
+
+Table 3: Number of referrals for direct access audiology services in England
+over the period 2009 to 2013
+
+                                                   2009            2010     2011      2012      2013
+Referrals                                      423,000         443,000    464,000   484,000   496,000
+Annual Percentage Increase                         4.7%            4.7%     4.3%      2.5%
+Source: Monitor analysis of NHS England dataset (completed pathways)
+
+Comparison of areas that have introduced choice and those that have not
+
+We compared the average incomplete waiting times after April 2013 for areas that
+have introduced choice and those that have not. This allows us to identify the effect
+of the introduction of choice controlling for other factors that might have affected
+                                                          44
+waiting times in both areas. The reason for examining the data after April 2013 is
+that waiting times at CCG level are only available from that date onwards. Figure 3
+shows the average incomplete waiting time in areas that introduced choice and
+those that did not between April 2013 and July 2014. CCGs included in the ‘choice’
+sample are those CCGs where we know the date of introduction of patient choice
+and who had introduced choice by 1 April 2013.35 The CCGs included in the ‘non-
+choice’ sample are those CCGs who did not introduce choice. We did not include
+those CCGs who introduced choice after April 2013 or for which the starting date is
+not known to us.
+
+In Figure 3 we observe that incomplete waiting times were similar but slightly lower
+in choice areas compared to non-choice areas over the period April 2013 to
+December 2013. This difference became slightly larger from January 2014 when
+incomplete waiting times in areas that had introduced choice fell faster than in areas
+that had not introduced choice. In April 2013 incomplete waiting times were 0.1
+weeks lower in areas that had introduced choice, and in July 2014 these were 0.6
+weeks lower in areas that had introduced choice compared to the areas that had not
+introduced choice.
+
+Figure 3: Average incomplete waiting times, areas that have introduced choice
+and areas that have not introduced choice (April 2013 – July 2014)
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+
+35
+     See Annex 1:.
+
+
+
+                                                          45
+We also examined changes in average incomplete waiting times for those CCGs that
+in April 2013 had relatively shorter or longer waiting times (see Figures 4 to 8).
+
+Figures 4 to 7 show that in areas where waiting times where relatively low to begin
+with the average incomplete waiting times in areas that had introduced choice and
+areas that had not were very similar over the period April 2013 to July 2014. In
+contrast Figure 8 shows that in areas where waiting times were initially relatively high
+(ie those areas where the average incomplete wait was 6 weeks or more in April
+2013) waiting times fell faster in areas that introduced choice than in areas that had
+not. Those areas that had an average incomplete wait of 6 weeks or more in April
+2013 and introduced choice, reduced their average incomplete waiting times by
+nearly 2 weeks. This reduction was 70% larger than the fall achieved in areas that
+had not introduced choice.
+
+Figure 4: Average incomplete waiting times, comparison of areas that have
+introduced choice and areas that have not introduced choice with wait times
+lower than 3 weeks in April 2013
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+
+
+
+                                                          46
+Figure 5: Average incomplete waiting times, comparison of areas that have
+introduced choice and areas that have not introduced choice with wait times
+between 3 and 4 weeks in April 2013
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+Figure 6: Average incomplete waiting times, comparison of areas that have
+introduced choice and areas that have not introduced choice with wait times
+between 4 and 5 weeks in April 2013
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+
+                                                          47
+Figure 7: Average incomplete waiting times, comparison of areas that have
+introduced choice and areas that have not introduced choice with wait times
+between 5 and 6 weeks in April 2013
+
+
+
+
+Source: Monitor Analysis of NHS England dataset (incomplete pathways)
+
+Figure 8: Average incomplete waiting times, comparison of areas that have
+introduced choice and areas that have not introduced choice with wait times
+higher than 6 weeks in April 2013
+
+
+
+
+Source: Monitor analysis of NHS England dataset (incomplete pathways)
+
+                                                          48
+Conclusion
+
+Following the introduction of digital hearing aids, GP referrals to audiology services
+increased and, as providers did not expand their capacity in response, waiting times
+sharply increased. To deal with the increase in waiting times funding was provided to
+commissioners to purchase additional treatments. RTT waiting times went from more
+than 17−18 weeks in December 2006 to 6−8 weeks in October 2008. When choice
+was introduced in some CCGs’ areas, waiting times were often already low due to
+the progress that had been made in previous years. In areas where waiting times
+were particularly low, the introduction of choice did not further reduce waiting times.
+However, when commissioners introduced choice in areas with longer waiting times,
+we found that waiting times fell by 70% more than they did in areas where
+commissioners chose not to introduce choice. This suggests that introducing choice
+can be an effective way to reduce waiting times quickly in areas that have relatively
+long waiting times.
+
+
+
+
+                                          49
+Annex 5: IQIPS accreditation
+The service specification developed to support the introduction of choice in adult
+hearing services included a requirement for providers to employ staff registered with
+the Health and Care Professions Council (HCPC)36 and recommended that providers
+be accredited by the Improving Quality in Physiological Diagnostic Service
+Programme (IQIPS).37 The IQIPS accreditation requirement was intended as a less
+onerous regulatory requirement than registration with the Care Quality Commission
+(CQC).38
+
+IQIPS accreditation involves an annual self assessment and external peer
+assessment against a set of 26 standards covering performance in relation to patient
+experience, facilities, resources and workforce, safety and clinical aspects of the
+service.39 The process involves the use of a self-assessment and improvement tool
+and a full day assessment. To gain and maintain accreditation, providers must pay a
+fee which includes an annual subscription to the IQIPS programme40 and an annual
+accreditation fee costing around £2,600.41
+
+
+
+
+36
+   The HCPC is a statutory regulator of around 300,000 health and care professionals from 16
+   professions including hearing aid dispensers. For more information, see www.hcpc-uk.org.uk/
+37
+   DH’s implementation pack, pages 31 and 47.
+38
+   DH’s implementation pack, page 47.
+39
+   The full list of standards are available here:
+   www.iqips.org.uk/documents/IQIPS%20Standards%20and%20Criteria_03-06-11.pdf
+40
+   This subscription fee increases with the number of specialties that provider offers and the number
+   of sites it operates.
+41
+   British Society of Hearing Aid Audiologists, Presentation: ‘IQIPS and AQP – Actually Quite
+   Perplexing?’, Consultation by DH for change to CQC registration regulations, 2 November 2012,
+   slide 12; Royal College of Physicians, IQIPS office Quick Guide to Improving Quality in
+   Physiological Services Programme, last updated 25 April 2013.
+
+                                                  50
+

@@ -1,0 +1,67 @@
+{
+  "operational_definitions": {
+    "recent_test": "AUQ144=1: less than one year ago",
+    "regular_wearing": "AUQ153=3 or4: at least four hours/day"
+  },
+  "source_rows": {
+    "P_DEMO": 15560,
+    "P_AUQ": 14986,
+    "P_AUX": 5147
+  },
+  "design": {
+    "strata": 24,
+    "psus": 49,
+    "full_design_df": 25
+  },
+  "sample_flow": {
+    "examined_age_70_plus": 1493,
+    "base_complete_bilateral_audiometry": 1230,
+    "base_current_device": 205,
+    "base_current_hearing_aid_valid_wearing": 199,
+    "primary_known_test_recency": 197
+  },
+  "raw_counts": {
+    "AUQ153_among_current_hearing_aid_users": {
+      "1.0": 11,
+      "2.0": 19,
+      "3.0": 36,
+      "4.0": 120,
+      "5.0": 13
+    },
+    "AUQ144_among_current_hearing_aid_users": {
+      "1.0": 92,
+      "2.0": 82,
+      "3.0": 14,
+      "4.0": 8,
+      "5.0": 1,
+      "9.0": 2
+    }
+  },
+  "weighted_regular_wearing": {
+    "recent_test": 0.9193677795919356,
+    "earlier_or_never": 0.7713696728017602,
+    "unadjusted_difference": 0.14799810679017544
+  },
+  "primary_adjusted_logit": {
+    "covariates": [
+      "intercept",
+      "recent_test",
+      "better_ear_pta",
+      "recorded_age",
+      "female"
+    ],
+    "converged": true,
+    "iterations": 7,
+    "beta_recent": 1.03541141689101,
+    "se_recent": 0.411261834556163,
+    "odds_ratio": 2.816264656159935,
+    "ci_95": [
+      1.1777140036223592,
+      6.734526879310904
+    ],
+    "t_stat": 2.5176452806724314,
+    "p_value": 0.02284781428942973,
+    "domain_df": 20,
+    "residual_df": 16
+  }
+}
