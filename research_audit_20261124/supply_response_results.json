@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "reference": {
+    "K": 0.3,
+    "w": [
+      0.2,
+      1.0
+    ],
+    "n": [
+      0.2028816254527142,
+      0.2180112923921031
+    ],
+    "h": 1.1601483586898207
+  },
+  "neutralizing_capacity_response": 0.13788055782704842,
+  "max_centered_difference_error": 2.220446049250313e-10,
+  "max_right_difference_error": 1.6318319728814146e-07,
+  "rows": [
+    {
+      "supply_fraction": -0.5,
+      "dK_dsL": -0.06894027891352421,
+      "dh_dsL": -0.5488171319427219,
+      "dnL_dsL": 0.5880901136289176,
+      "dnH_dsL": -0.05471483011029976
+    },
+    {
+      "supply_fraction": 0,
+      "dK_dsL": 0.0,
+      "dh_dsL": -0.3658780879618146,
+      "dnL_dsL": 0.590138992117469,
+      "dnH_dsL": -0.03647655340686651
+    },
+    {
+      "supply_fraction": 0.5,
+      "dK_dsL": 0.06894027891352421,
+      "dh_dsL": -0.1829390439809073,
+      "dnL_dsL": 0.5921878706060203,
+      "dnH_dsL": -0.018238276703433254
+    },
+    {
+      "supply_fraction": 1,
+      "dK_dsL": 0.13788055782704842,
+      "dh_dsL": 0.0,
+      "dnL_dsL": 0.5942367490945716,
+      "dnH_dsL": 0.0
+    },
+    {
+      "supply_fraction": 1.5,
+      "dK_dsL": 0.2068208367405726,
+      "dh_dsL": 0.18293904398090727,
+      "dnL_dsL": 0.5962856275831229,
+      "dnH_dsL": 0.018238276703433254
+    }
+  ],
+  "interpretation": "Alternative local K(s_L) paths through the same equilibrium; not a provider optimization model or welfare ranking. Supply financing and operating-cost responses are not identified."
+}

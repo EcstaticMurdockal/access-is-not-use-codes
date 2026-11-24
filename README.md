@@ -1,16 +1,16 @@
 # Access Is Not Use: replication code and data
 
-Replication release **v1.1.0** for *Access Is Not Use: Device Subsidies and Aftercare Capacity in Hearing-Aid Provision*.
+Replication release **v1.2.0** for *Access Is Not Use: Device Subsidies and Aftercare Capacity in Hearing-Aid Provision*.
 Repository: https://github.com/EcstaticMurdockal/access-is-not-use-codes
 
 ## Get the paper-specific version
 
 ```sh
-git clone --branch v1.1.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
+git clone --branch v1.2.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
 cd access-is-not-use-codes
 ```
 
-Alternatively select tag `v1.1.0` on GitHub, choose **Code → Download ZIP**, and extract it. Run commands from the extracted repository root. The tag identifies this replication release; subsequent work on `main` may differ. `MANIFEST_SHA256.json` records released file hashes.
+Alternatively select tag `v1.2.0` on GitHub, choose **Code → Download ZIP**, and extract it. Run commands from the extracted repository root. The tag identifies this replication release; subsequent work on `main` may differ. `MANIFEST_SHA256.json` records released file hashes.
 
 ## Install and run
 
@@ -73,6 +73,10 @@ Third-party data retain their source terms; source URLs and hashes do not confer
 
 For errors, open a GitHub issue with the release tag, command, Python/package versions, and the relevant non-sensitive error log. Do not upload credentials or private records.
 
-## Matched-baseline institutional check (v1.1.0)
+## Matched-baseline institutional check (v1.2.0)
 
 `research_audit_20261124/reserved_capacity.py` compares pooled support with group-reserved capacity. Group reservation shares are set once from the reference equilibrium and held fixed during subsidy perturbations. All five institutional rules have the same baseline adoption and delivered support. The code verifies the analytical response matrix, the resource identity, the pooled limit and the fully reserved limit. It writes CSV/JSON results and the generated table. Within-group congestion persists at full reservation. These are illustrative local comparative statics, not an estimated institutional effect.
+
+## Local supply-response boundary
+
+`research_audit_20261124/supply_response.py` holds the reference equilibrium fixed and varies the local response of capacity to a group subsidy. Contraction, partial expansion, exact offset and stronger expansion are checked using analytic, centered-difference and feasible right derivatives. This is a conditional comparative-static check, not an estimated supply function or welfare ranking.
