@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "n": 197,
+  "baseline_OR": 2.816264656159935,
+  "weight_only_effective_n": 103.46585230762717,
+  "max_weight_share": 0.041049492914412254,
+  "top_five_weight_share": 0.12114343390454554,
+  "summary": {
+    "person": {
+      "refits": 197,
+      "min_OR": 2.3585554815454355,
+      "max_OR": 3.5111309294349407,
+      "max_abs_logOR_change": 0.22052677080902572
+    },
+    "masked_psu": {
+      "refits": 43,
+      "min_OR": 2.3561084203102722,
+      "max_OR": 3.465226746328982,
+      "max_abs_logOR_change": 0.20736665266579823
+    }
+  },
+  "limitations": [
+    "Exploratory influence diagnostics selected after inspecting the main result.",
+    "Deletion ranges are not confidence intervals or jackknife variance estimates.",
+    "Weights are not recalibrated after deletion; these are perturbations of the fitted sample.",
+    "Weight-only effective n excludes clustering and is not regression effective sample size.",
+    "No correction for unmeasured confounding, reverse causation or current-user selection."
+  ]
+}

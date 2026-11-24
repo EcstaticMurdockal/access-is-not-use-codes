@@ -17,7 +17,7 @@
         "--offline"
       ],
       "exit_code": 0,
-      "seconds": 2.049,
+      "seconds": 2.259,
       "log": "reproduction_run/01.log"
     },
     {
@@ -26,7 +26,7 @@
         "verify_models.py"
       ],
       "exit_code": 0,
-      "seconds": 1.238,
+      "seconds": 1.478,
       "log": "reproduction_run/02.log"
     },
     {
@@ -35,7 +35,7 @@
         "verify_models_round28.py"
       ],
       "exit_code": 0,
-      "seconds": 1.226,
+      "seconds": 1.379,
       "log": "reproduction_run/03.log"
     },
     {
@@ -44,7 +44,7 @@
         "reproduce_nhanes_access_use.py"
       ],
       "exit_code": 0,
-      "seconds": 1.254,
+      "seconds": 1.35,
       "log": "reproduction_run/04.log"
     },
     {
@@ -53,8 +53,17 @@
         "research_audit_20261124/nhanes_sensitivity.py"
       ],
       "exit_code": 0,
-      "seconds": 1.204,
+      "seconds": 1.481,
       "log": "reproduction_run/05.log"
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "research_audit_20261124/nhanes_influence.py"
+      ],
+      "exit_code": 0,
+      "seconds": 3.802,
+      "log": "reproduction_run/06.log"
     },
     {
       "command": [
@@ -62,8 +71,8 @@
         "research_audit_20261124/distribution_stress.py"
       ],
       "exit_code": 0,
-      "seconds": 4.964,
-      "log": "reproduction_run/06.log"
+      "seconds": 5.316,
+      "log": "reproduction_run/07.log"
     },
     {
       "command": [
@@ -71,8 +80,8 @@
         "research_audit_20261124/corner_regression.py"
       ],
       "exit_code": 0,
-      "seconds": 0.475,
-      "log": "reproduction_run/07.log"
+      "seconds": 0.577,
+      "log": "reproduction_run/08.log"
     },
     {
       "command": [
@@ -80,8 +89,8 @@
         "research_audit_20261124/reserved_capacity.py"
       ],
       "exit_code": 0,
-      "seconds": 0.499,
-      "log": "reproduction_run/08.log"
+      "seconds": 0.476,
+      "log": "reproduction_run/09.log"
     },
     {
       "command": [
@@ -89,8 +98,8 @@
         "research_audit_20261124/supply_response.py"
       ],
       "exit_code": 0,
-      "seconds": 0.487,
-      "log": "reproduction_run/09.log"
+      "seconds": 0.491,
+      "log": "reproduction_run/10.log"
     },
     {
       "command": [
@@ -98,8 +107,8 @@
         "replication/audit_nhs_aqp_pretrends.py"
       ],
       "exit_code": 0,
-      "seconds": 8.019,
-      "log": "reproduction_run/10.log"
+      "seconds": 1.971,
+      "log": "reproduction_run/11.log"
     }
   ],
   "scope": "Offline raw-workbook reconstruction and computational replication; not independent causal identification.",
@@ -112,6 +121,20 @@
     "neutralizing_capacity_response": 0.13788055782704842,
     "max_centered_difference_error": 2.220446049250313e-10,
     "max_right_difference_error": 1.6318319728814146e-07
+  },
+  "influence_validation": {
+    "person": {
+      "refits": 197,
+      "min_OR": 2.3585554815454355,
+      "max_OR": 3.5111309294349407,
+      "max_abs_logOR_change": 0.22052677080902572
+    },
+    "masked_psu": {
+      "refits": 43,
+      "min_OR": 2.3561084203102722,
+      "max_OR": 3.465226746328982,
+      "max_abs_logOR_change": 0.20736665266579823
+    }
   },
   "numeric_validation": {
     "n": 197,

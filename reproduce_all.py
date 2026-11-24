@@ -30,7 +30,7 @@ def main():
         for item in provenance['inputs']:
             f=ROOT/item['path'];assert hashlib.sha256(f.read_bytes()).hexdigest()==item['sha256'], 'Input hash mismatch: '+str(f)
         run([sys.executable,'replication/build_nhs_aqp_panel.py','--offline'])
-        scripts=['verify_models.py','verify_models_round28.py','reproduce_nhanes_access_use.py','research_audit_20261124/nhanes_sensitivity.py','research_audit_20261124/distribution_stress.py','research_audit_20261124/corner_regression.py','research_audit_20261124/reserved_capacity.py','research_audit_20261124/supply_response.py','replication/audit_nhs_aqp_pretrends.py']
+        scripts=['verify_models.py','verify_models_round28.py','reproduce_nhanes_access_use.py','research_audit_20261124/nhanes_sensitivity.py','research_audit_20261124/nhanes_influence.py','research_audit_20261124/distribution_stress.py','research_audit_20261124/corner_regression.py','research_audit_20261124/reserved_capacity.py','research_audit_20261124/supply_response.py','replication/audit_nhs_aqp_pretrends.py']
         for f in scripts:run([sys.executable,f])
         nh=json.loads((ROOT/'nhanes_reproduction_results.json').read_text());assert nh['sample_flow']['primary_known_test_recency']==197
         # The stored estimate is beta on the log-odds scale.
@@ -43,6 +43,9 @@ def main():
         supply=json.loads((ROOT/'research_audit_20261124/supply_response_results.json').read_text())
         assert supply['passed'] and supply['max_centered_difference_error']<1e-7 and supply['max_right_difference_error']<1e-5
         report['supply_validation']={k:supply[k] for k in ['neutralizing_capacity_response','max_centered_difference_error','max_right_difference_error']}
+        influence=json.loads((ROOT/'research_audit_20261124/nhanes_influence_results.json').read_text())
+        assert influence['passed'] and influence['n']==197 and influence['summary']['person']['refits']==197 and influence['summary']['masked_psu']['refits']==43
+        report['influence_validation']=influence['summary']
         report['numeric_validation']={'n':197,'primary_OR':math.exp(nh['primary_adjusted_logit']['beta_recent']),'stress_tested':st['tested'],'max_errors':st['max_absolute_errors']}
         if args.figures:
             run([sys.executable,'build_visuals.py'])
