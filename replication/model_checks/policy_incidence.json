@@ -1,0 +1,85 @@
+{
+  "per_public_dollar": {
+    "subsidy_L": {
+      "adoption_L": 2.908784818736644,
+      "adoption_H": -0.179792296741866,
+      "consumer_surplus_L": 0.9907498237792048,
+      "consumer_surplus_H": -0.09636673077278776,
+      "external_benefit": 0.629439677001903,
+      "net_welfare": 0.42382277000832
+    },
+    "subsidy_H": {
+      "adoption_L": -0.0891947761522263,
+      "adoption_H": 1.7929430145581877,
+      "consumer_surplus_L": -0.04084942460578826,
+      "consumer_surplus_H": 0.5744377826705985,
+      "external_benefit": 0.19273123863389552,
+      "net_welfare": -0.37368040330129415
+    },
+    "capacity": {
+      "adoption_L": 0.11887845659118003,
+      "adoption_H": 1.0582073058515231,
+      "consumer_surplus_L": 0.054443956913867685,
+      "consumer_surplus_H": 0.5671876959845572,
+      "external_benefit": 0.6050872670598882,
+      "net_welfare": 0.12671891995831297
+    },
+    "subsidy_H_with_capacity": {
+      "adoption_L": 0.0,
+      "adoption_H": 1.477983775423595,
+      "consumer_surplus_L": 0.0,
+      "consumer_surplus_H": 0.571329887193033,
+      "external_benefit": 0.36949594385589873,
+      "net_welfare": -0.15917416895106837
+    }
+  },
+  "reservation": {
+    "value_per_service_unit": [
+      0.1264106341039008,
+      0.24510628709613855
+    ],
+    "pooled_loss": [
+      0.05255034368090295,
+      0.2627517184045147
+    ],
+    "reserved_loss": [
+      0.029331017935316,
+      0.2843596566791411
+    ],
+    "recipient_share_of_pooled_loss": [
+      0.08758234343443877,
+      0.9124176565655612
+    ]
+  },
+  "lost_follow_up": {
+    "illustrative_minutes_per_service_unit": 10.0,
+    "recipient_groups": [
+      "L",
+      "H"
+    ],
+    "minutes_lost_per_H_entrant": [
+      1.8204489995974977,
+      9.78103458730082
+    ],
+    "model_money_per_minute": [
+      0.01264106341039008,
+      0.024510628709613853
+    ],
+    "private_loss_by_incumbent_group": [
+      0.023012411239293155,
+      0.23973930716522154
+    ],
+    "private_loss_per_H_entrant": 0.2627517184045147,
+    "social_incumbent_loss_per_H_entrant": 0.3941275776067721,
+    "per_dollar_of_H_subsidy": {
+      "entrant_external_benefit": 0.42593705960149036,
+      "social_incumbent_loss": 0.6996174629027845,
+      "excess_financing_cost": 0.1,
+      "net_welfare": -0.37368040330129415
+    }
+  },
+  "capacity_units_per_H_subsidy_unit_at_constant_support": 0.6542974726007307,
+  "cost_threshold_capacity_vs_subsidy_L": 0.20125682331673242,
+  "H_welfare_weight_threshold_capacity_vs_subsidy_L": 1.447746014598822,
+  "maximum_absolute_equal_budget_error": 2.5009563309197347e-09
+}

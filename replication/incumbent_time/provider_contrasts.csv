@@ -1,0 +1,4 @@
+contrast,first_group,second_group,beta_first,se_first,beta_second,se_second,source_columns
+Panel ceiling,Reaches ceiling,Slack,-0.051,0.027,-0.025,0.023,2 minus 1
+Fee schedule,Low fee,High fee,-0.045,0.027,-0.039,0.030,3 minus 4
+Preassignment schedule,Part-time,Full-time,-0.083,0.004,-0.005,0.010,5 minus 6

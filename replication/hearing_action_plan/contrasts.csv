@@ -1,0 +1,11 @@
+outcome,contrast,complete_case,ci_lower,ci_upper,completion_lower,completion_upper
+questionnaire,"Plan, averaged over prompt assignment",9.45683,2.23994,16.67371,-5.20833,22.29167
+questionnaire,"Prompt, averaged over plan assignment",-6.52315,-13.74004,0.69374,-16.87500,10.62500
+questionnaire,Interaction (difference in plan effects),-8.63737,-23.07115,5.79641,-32.91667,22.08333
+questionnaire,Plan without prompt,13.77551,4.61590,22.93512,-7.08333,29.58333
+questionnaire,Plan with prompt,5.13814,-6.13375,16.41003,-3.33333,15.00000
+logged,"Plan, averaged over prompt assignment",-0.05000,-1.44627,1.34627,-3.26792,2.70792
+logged,"Prompt, averaged over plan assignment",-0.05000,-1.44627,1.34627,-3.38458,2.59125
+logged,Interaction (difference in plan effects),-3.10000,-5.89253,-0.30747,-8.63583,3.31583
+logged,Plan without prompt,1.50000,-0.46476,3.46476,-2.83417,4.93417
+logged,Plan with prompt,-1.60000,-3.60800,0.40800,-3.70167,0.48167

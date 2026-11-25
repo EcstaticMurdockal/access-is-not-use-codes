@@ -16,7 +16,14 @@ def baseline(s=0.,K=1.):
 def group(s=(0.,0.),K=.3,wL=.2,need=(1.,1.),eta=.5,lam=.1,cx=.25):
     s=np.array(s); m=np.array([.5,.5]); w=np.array([wL,1.]); rneed=np.array(need,dtype=float)
     a=np.array([.8,.2]); b=np.array([.2,1.]); p=np.array([.5,.5])
-    if np.any(rneed<=0): raise ValueError("support requirements must be positive")
+    if not np.isfinite(K) or K <= 0 or not np.all(np.isfinite(w) & (w >= 0)):
+        raise ValueError("capacity must be positive and allocation weights nonnegative")
+    if not np.all(np.isfinite(rneed) & (rneed > 0)):
+        raise ValueError("support requirements must be positive")
+    limiting_benefit = np.where(w > 0, a + b, a)
+    limiting_adoption = m * (1 - np.clip((p - s) / limiting_benefit, 0, 1))
+    if not (w @ limiting_adoption > 0):
+        raise ValueError("no finite positive-load equilibrium at these net prices and weights")
     def at(h):
         q=a+b*(-np.expm1(-w*h/rneed)); t=np.clip((p-s)/q,0,1); n=m*(1-t)
         return q,t,n
@@ -39,7 +46,8 @@ def group(s=(0.,0.),K=.3,wL=.2,need=(1.,1.),eta=.5,lam=.1,cx=.25):
     E=s@n+cx*(K-.3); W=(1+eta)*(M@q)-p@n-cx*(K-.3)-lam*E
     V=W+lam*E
     return dict(n=n,h=h,q=q,C=C,dns=dns,Es=Es,Vs=Vs,Gamma=Gamma,
-                Ws=Ws,Wx=Wx,V=V,W=W,E=E,D=D)
+                Ws=Ws,Wx=Wx,V=V,W=W,E=E,D=D,
+                M=M, qp=qp, prices=p, weights=w, dh_ds=dhds, dh_dK=1/L, dn_dK=dnK)
 
 def stock_flow(s=.05,K=.3,incumbent=.25,wA=1.,wL=.3,m=.5,p=.5,
                exit_rate=.1,persist=.8,incumbent_mean_value=.7):
@@ -85,8 +93,8 @@ def device_age_aggregation(first_entry=.08,stock=(.24,.20,.16,.12),
     """
     stock=np.asarray(stock,dtype=float); refit=np.asarray(refit,dtype=float)
     exit_rate=np.asarray(exit_rate,dtype=float); w_maint=np.asarray(w_maint,dtype=float)
-    if not (stock.shape==refit.shape==exit_rate.shape==w_maint.shape):
-        raise ValueError("device-age vectors must have the same shape")
+    if stock.ndim != 1 or not stock.size or not (stock.shape == refit.shape == exit_rate.shape == w_maint.shape):
+        raise ValueError("device-age inputs must be nonempty one-dimensional vectors of equal length")
     if first_entry<0 or min(w_first,w_refit,retain_first,retain_refit)<0:
         raise ValueError("device-age primitives must be nonnegative")
     if np.any(stock<0) or np.any(refit<0) or np.any(exit_rate<0) or np.any(w_maint<0):
@@ -103,9 +111,12 @@ def device_age_aggregation(first_entry=.08,stock=(.24,.20,.16,.12),
     wL=float(w_maint@maintenance_stock)/active_maintenance if active_maintenance else None
     aggregate_load=((wA*current_fittings if wA is not None else 0.)+
                     (wL*active_maintenance if wL is not None else 0.))
-    next_by_age=np.zeros_like(stock)
-    next_by_age[0]=retain_first*first_entry+retain_refit*replacement
-    next_by_age[1:]=(1-exit_rate[:-1]-refit[:-1])*stock[:-1]
+    survivors = (1 - exit_rate - refit) * stock
+    next_by_age = np.zeros_like(stock)
+    next_by_age[0] = retain_first * first_entry + retain_refit * replacement
+    next_by_age[1:] = survivors[:-1]
+    # The oldest class is open-ended. With one class, entrants and survivors share it.
+    next_by_age[-1] += survivors[-1]
     identity_error=abs(direct_load-aggregate_load)
     return dict(first_entry=first_entry,replacement_flow=replacement,
                 maintenance_stock=active_maintenance,w_first=w_first,w_refit=w_refit,
@@ -296,6 +307,8 @@ def main():
     maxerr=max(maxerr,stockerr)
     # The richer device-age/refitting accounting must collapse exactly to the
     # two-phase denominator when phase composition is held fixed.
+    from replication.model_checks.check_revision import age_bins
+    age_bins(project=device_age_aggregation)
     ageflow=device_age_aggregation()
     ageflow_reverse=device_age_aggregation(w_refit=.80)
     assert ageflow['aggregation_identity_error']<1e-12

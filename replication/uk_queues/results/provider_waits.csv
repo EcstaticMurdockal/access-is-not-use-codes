@@ -1,0 +1,283 @@
+reporting_label,period,listed_first,listed_reassessment,named_exact_match,balanced_primary,first_fit_weeks,reassessment_weeks,gap_weeks
+Aintree University Hospital,2004-05,1,1,1,1,28.0,22.0,-6.0
+Aintree University Hospital,2005-06,1,1,1,1,17.0,17.0,0.0
+Aintree University Hospital,Current,1,1,1,1,40.0,30.0,-10.0
+Airedale,2004-05,1,1,1,0,40.0,20.0,-20.0
+Airedale,2005-06,1,1,1,0,58.0,58.0,0.0
+Airedale,Current,1,1,1,0,,,
+"Barking, Havering & Redbridge Hospitals",2004-05,1,1,1,1,12.0,12.0,0.0
+"Barking, Havering & Redbridge Hospitals",2005-06,1,1,1,1,24.0,24.0,0.0
+"Barking, Havering & Redbridge Hospitals",Current,1,1,1,1,40.0,124.0,84.0
+Barnsley Hospital,2004-05,1,1,1,1,10.0,10.0,0.0
+Barnsley Hospital,2005-06,1,1,1,1,8.0,8.0,0.0
+Barnsley Hospital,Current,1,1,1,1,6.0,8.0,2.0
+Barts and The London,2004-05,1,1,1,1,29.0,44.0,15.0
+Barts and The London,2005-06,1,1,1,1,38.0,40.0,2.0
+Barts and The London,Current,1,1,1,1,26.0,52.0,26.0
+Bedford Hospital,2004-05,1,1,1,1,10.0,10.0,0.0
+Bedford Hospital,2005-06,1,1,1,1,40.0,40.0,0.0
+Bedford Hospital,Current,1,1,1,1,56.0,56.0,0.0
+Birmingham Children's Hospital,2004-05,1,1,1,0,6.0,,
+Birmingham Children's Hospital,2005-06,1,1,1,0,6.0,,
+Birmingham Children's Hospital,Current,1,1,1,0,6.0,,
+"Blackpool, Fylde and Wyre Hospitals",2004-05,1,1,1,0,,,
+"Blackpool, Fylde and Wyre Hospitals",2005-06,1,1,1,0,,,
+"Blackpool, Fylde and Wyre Hospitals",Current,1,1,1,0,72.0,260.0,188.0
+Bolton Hospitals,2004-05,1,1,1,1,3.0,78.0,75.0
+Bolton Hospitals,2005-06,1,1,1,1,4.0,30.0,26.0
+Bolton Hospitals,Current,1,1,1,1,16.0,17.0,1.0
+Bradford Teaching Hospitals,2004-05,1,1,1,0,,,
+Bradford Teaching Hospitals,2005-06,1,1,1,0,,,
+Bradford Teaching Hospitals,Current,1,1,1,0,68.0,64.0,-4.0
+Bromley Hospitals,2004-05,1,1,1,0,52.0,,
+Bromley Hospitals,2005-06,1,1,1,0,104.0,,
+Bromley Hospitals,Current,1,1,1,0,112.0,156.0,44.0
+Buckinghamshire Hospitals,2004-05,1,1,1,1,44.0,52.0,8.0
+Buckinghamshire Hospitals,2005-06,1,1,1,1,22.0,22.0,0.0
+Buckinghamshire Hospitals,Current,1,1,1,1,22.0,22.0,0.0
+Burton Hospitals,2004-05,1,1,1,0,,,
+Burton Hospitals,2005-06,1,1,1,0,45.0,84.0,39.0
+Burton Hospitals,Current,1,1,1,0,47.0,90.0,43.0
+Calderdale and Huddersfield,2004-05,1,1,1,1,13.0,50.0,37.0
+Calderdale and Huddersfield,2005-06,1,1,1,1,23.0,65.0,42.0
+Calderdale and Huddersfield,Current,1,1,1,1,38.0,115.0,77.0
+Children's University Hospitals,2004-05,1,1,1,1,42.0,36.0,-6.0
+Children's University Hospitals,2005-06,1,1,1,1,15.0,20.0,5.0
+Children's University Hospitals,Current,1,1,1,1,12.0,13.0,1.0
+City Hospitals Sunderland,2004-05,1,1,1,1,80.0,80.0,0.0
+City Hospitals Sunderland,2005-06,1,1,1,1,64.0,64.0,0.0
+City Hospitals Sunderland,Current,1,1,1,1,68.0,68.0,0.0
+County Durham & Darlington,2004-05,1,1,1,1,28.0,28.0,0.0
+County Durham & Darlington,2005-06,1,1,1,1,47.0,47.0,0.0
+County Durham & Darlington,Current,1,1,1,1,59.0,59.0,0.0
+Derby Hospitals,2004-05,1,1,1,0,14.0,,
+Derby Hospitals,2005-06,1,1,1,0,14.0,,
+Derby Hospitals,Current,1,1,1,0,16.0,156.0,140.0
+East Kent Hospitals,2004-05,1,1,1,0,,,
+East Kent Hospitals,2005-06,1,1,1,0,95.0,95.0,0.0
+East Kent Hospitals,Current,1,1,1,0,100.0,100.0,0.0
+East Lancashire Hospitals,2004-05,1,1,1,1,20.0,24.0,4.0
+East Lancashire Hospitals,2005-06,1,1,1,1,20.0,40.0,20.0
+East Lancashire Hospitals,Current,1,1,1,1,24.0,84.0,60.0
+East Surrey,2004-05,1,1,1,1,105.0,105.0,0.0
+East Surrey,2005-06,1,1,1,1,84.0,84.0,0.0
+East Surrey,Current,1,1,1,1,88.0,88.0,0.0
+Epsom and St Helier University Hospitals,2004-05,1,1,1,1,32.0,40.0,8.0
+Epsom and St Helier University Hospitals,2005-06,1,1,1,1,48.0,76.0,28.0
+Epsom and St Helier University Hospitals,Current,1,1,1,1,48.0,104.0,56.0
+Essex Rivers Healthcare,2004-05,1,1,1,1,64.0,78.0,14.0
+Essex Rivers Healthcare,2005-06,1,1,1,1,64.0,100.0,36.0
+Essex Rivers Healthcare,Current,1,1,1,1,60.0,100.0,40.0
+Freeman Hospital,2004-05,1,1,1,0,7.0,,
+Freeman Hospital,2005-06,1,1,1,0,13.0,,
+Freeman Hospital,Current,1,1,1,0,12.0,,
+Frimley Park,2004-05,1,1,1,0,,,
+Frimley Park,2005-06,1,1,1,0,,,
+Frimley Park,Current,1,1,1,0,13.0,14.0,1.0
+Gateshead Health,2004-05,1,1,1,1,9.0,9.0,0.0
+Gateshead Health,2005-06,1,1,1,1,12.0,12.0,0.0
+Gateshead Health,Current,1,1,1,1,15.0,15.0,0.0
+Gloucestershire Hospitals,2004-05,1,1,1,1,40.0,72.0,32.0
+Gloucestershire Hospitals,2005-06,1,1,1,1,52.0,104.0,52.0
+Gloucestershire Hospitals,Current,1,1,1,1,64.0,120.0,56.0
+Great Ormand Street Hospital for Children,2004-05,1,1,1,1,3.0,6.0,3.0
+Great Ormand Street Hospital for Children,2005-06,1,1,1,1,3.0,6.0,3.0
+Great Ormand Street Hospital for Children,Current,1,1,1,1,3.0,6.0,3.0
+Guy's and St Thomas',2004-05,1,1,1,1,35.0,25.0,-10.0
+Guy's and St Thomas',2005-06,1,1,1,1,44.0,36.0,-8.0
+Guy's and St Thomas',Current,1,1,1,1,63.0,52.0,-11.0
+Harrogate and District,2004-05,1,1,1,1,12.0,26.0,14.0
+Harrogate and District,2005-06,1,1,1,1,24.0,52.0,28.0
+Harrogate and District,Current,1,1,1,1,61.0,156.0,95.0
+Healthcare,2004-05,1,1,0,0,52.0,78.0,26.0
+Healthcare,2005-06,1,1,0,0,30.0,52.0,22.0
+Healthcare,Current,1,1,0,0,30.0,52.0,22.0
+Heart of England,2004-05,1,1,1,0,48.0,,
+Heart of England,2005-06,1,1,1,0,48.0,,
+Heart of England,Current,1,1,1,0,52.0,102.0,50.0
+Hillingdon Hospital,2004-05,1,1,1,1,26.0,33.0,7.0
+Hillingdon Hospital,2005-06,1,1,1,1,25.0,114.0,89.0
+Hillingdon Hospital,Current,1,1,1,1,24.0,114.0,90.0
+Hull and East Yorkshire Hospitals,2004-05,1,1,1,1,20.0,78.0,58.0
+Hull and East Yorkshire Hospitals,2005-06,1,1,1,1,37.0,156.0,119.0
+Hull and East Yorkshire Hospitals,Current,1,1,1,1,48.0,156.0,108.0
+Ipswich Hospital,2004-05,1,1,1,0,,,
+Ipswich Hospital,2005-06,1,1,1,0,62.0,70.0,8.0
+Ipswich Hospital,Current,1,1,1,0,62.0,104.0,42.0
+Luton and Dunstable Hospital,2004-05,1,1,1,1,30.0,12.0,-18.0
+Luton and Dunstable Hospital,2005-06,1,1,1,1,30.0,20.0,-10.0
+Luton and Dunstable Hospital,Current,1,1,1,1,46.0,60.0,14.0
+Mayday Healthcare,2004-05,1,1,1,1,121.0,121.0,0.0
+Mayday Healthcare,2005-06,1,1,1,1,65.0,65.0,0.0
+Mayday Healthcare,Current,1,1,1,1,58.0,58.0,0.0
+Mid Cheshire Hospitals,2004-05,1,1,1,1,48.0,92.0,44.0
+Mid Cheshire Hospitals,2005-06,1,1,1,1,55.0,110.0,55.0
+Mid Cheshire Hospitals,Current,1,1,1,1,44.0,128.0,84.0
+Mid Essex Hospital Services,2004-05,1,1,1,1,26.0,26.0,0.0
+Mid Essex Hospital Services,2005-06,1,1,1,1,33.0,35.0,2.0
+Mid Essex Hospital Services,Current,1,1,1,1,37.0,38.0,1.0
+Mid Staffordshire General Hospitals,2004-05,1,1,1,0,,,
+Mid Staffordshire General Hospitals,2005-06,1,1,1,0,,,
+Mid Staffordshire General Hospitals,Current,1,1,1,0,104.0,156.0,52.0
+Milton Keynes General,2004-05,1,1,1,1,52.0,52.0,0.0
+Milton Keynes General,2005-06,1,1,1,1,60.0,60.0,0.0
+Milton Keynes General,Current,1,1,1,1,8.0,8.0,0.0
+Newham PCT,2004-05,1,1,1,1,26.0,50.0,24.0
+Newham PCT,2005-06,1,1,1,1,28.0,52.0,24.0
+Newham PCT,Current,1,1,1,1,28.0,78.0,50.0
+North Bristol,2004-05,1,1,1,1,30.0,12.0,-18.0
+North Bristol,2005-06,1,1,1,1,40.0,28.0,-12.0
+North Bristol,Current,1,1,1,1,52.0,40.0,-12.0
+North Cumbria Acute Hospitals,2004-05,1,1,1,1,20.0,72.0,52.0
+North Cumbria Acute Hospitals,2005-06,1,1,1,1,32.0,104.0,72.0
+North Cumbria Acute Hospitals,Current,1,1,1,1,32.0,104.0,72.0
+North Hampshire Hospitals,2004-05,1,1,1,0,,,
+North Hampshire Hospitals,2005-06,1,1,1,0,,,
+North Hampshire Hospitals,Current,1,1,1,0,52.0,128.0,76.0
+North Tyneside Hospital,2004-05,1,1,1,0,4.0,,
+North Tyneside Hospital,2005-06,1,1,1,0,12.0,,
+North Tyneside Hospital,Current,1,1,1,0,12.0,,
+North West London Hospitals,2004-05,1,1,1,1,76.0,84.0,8.0
+North West London Hospitals,2005-06,1,1,1,1,38.0,96.0,58.0
+North West London Hospitals,Current,1,1,1,1,30.0,126.0,96.0
+Northern Devon Healthcare,2004-05,1,1,1,0,64.0,52.0,-12.0
+Northern Devon Healthcare,2005-06,1,1,1,0,52.0,32.0,-20.0
+Northern Devon Healthcare,Current,1,1,1,0,48.0,,
+Nottingham University Hospitals,2004-05,1,1,1,1,30.0,35.0,5.0
+Nottingham University Hospitals,2005-06,1,1,1,1,42.0,52.0,10.0
+Nottingham University Hospitals,Current,1,1,1,1,14.0,17.0,3.0
+Oxford Radcliffe Hospitals,2004-05,1,1,1,1,26.0,26.0,0.0
+Oxford Radcliffe Hospitals,2005-06,1,1,1,1,56.0,56.0,0.0
+Oxford Radcliffe Hospitals,Current,1,1,1,1,48.0,48.0,0.0
+Peterborough & Stamford,2004-05,1,1,1,1,50.0,50.0,0.0
+Peterborough & Stamford,2005-06,1,1,1,1,68.0,68.0,0.0
+Peterborough & Stamford,Current,1,1,1,1,53.0,53.0,0.0
+Plymouth Hospitals,2004-05,1,1,1,1,78.0,78.0,0.0
+Plymouth Hospitals,2005-06,1,1,1,1,108.0,112.0,4.0
+Plymouth Hospitals,Current,1,1,1,1,108.0,156.0,48.0
+Queen Mary's Sidcup,2004-05,1,1,1,1,78.0,112.0,34.0
+Queen Mary's Sidcup,2005-06,1,1,1,1,56.0,56.0,0.0
+Queen Mary's Sidcup,Current,1,1,1,1,56.0,52.0,-4.0
+Royal Berkshire,2004-05,1,1,1,1,12.0,12.0,0.0
+Royal Berkshire,2005-06,1,1,1,1,12.0,12.0,0.0
+Royal Berkshire,Current,1,1,1,1,12.0,12.0,0.0
+Royal Cornwall Hospitals,2004-05,1,1,1,1,21.0,76.0,55.0
+Royal Cornwall Hospitals,2005-06,1,1,1,1,31.0,61.0,30.0
+Royal Cornwall Hospitals,Current,1,1,1,1,34.0,63.0,29.0
+Royal Free Hampstead,2004-05,1,1,1,1,33.0,33.0,0.0
+Royal Free Hampstead,2005-06,1,1,1,1,21.0,15.0,-6.0
+Royal Free Hampstead,Current,1,1,1,1,16.0,10.0,-6.0
+Royal Liverpool Children's,2004-05,1,1,1,0,3.0,,
+Royal Liverpool Children's,2005-06,1,1,1,0,3.0,,
+Royal Liverpool Children's,Current,1,1,1,0,3.0,0.0,-3.0
+Royal United Hospital Bath,2004-05,1,1,1,1,49.0,49.0,0.0
+Royal United Hospital Bath,2005-06,1,1,1,1,51.0,51.0,0.0
+Royal United Hospital Bath,Current,1,1,1,1,53.0,53.0,0.0
+Royal Wolverhampton Hospitals,2004-05,1,1,1,1,64.0,112.0,48.0
+Royal Wolverhampton Hospitals,2005-06,1,1,1,1,60.0,114.0,54.0
+Royal Wolverhampton Hospitals,Current,1,1,1,1,40.0,110.0,70.0
+Salford Hospital (children's hearing aids),2004-05,1,1,1,0,4.0,,
+Salford Hospital (children's hearing aids),2005-06,1,1,1,0,1.0,,
+Salford Hospital (children's hearing aids),Current,1,1,1,0,1.0,,
+Sandwell & West Birmingham Hospitals,2004-05,1,1,1,0,,,
+Sandwell & West Birmingham Hospitals,2005-06,1,1,1,0,,,
+Sandwell & West Birmingham Hospitals,Current,1,1,1,0,53.0,96.0,43.0
+Sheffield Teaching Hospitals,2004-05,1,1,1,1,48.0,124.0,76.0
+Sheffield Teaching Hospitals,2005-06,1,1,1,1,26.0,150.0,124.0
+Sheffield Teaching Hospitals,Current,1,1,1,1,39.0,130.0,91.0
+Sherwood Forest Hospitals,2004-05,1,1,1,1,7.0,6.0,-1.0
+Sherwood Forest Hospitals,2005-06,1,1,1,1,6.0,7.0,1.0
+Sherwood Forest Hospitals,Current,1,1,1,1,8.0,6.0,-2.0
+Shrewsbury and Telford Hospital,2004-05,1,1,1,1,65.0,80.0,15.0
+Shrewsbury and Telford Hospital,2005-06,1,1,1,1,60.0,65.0,5.0
+Shrewsbury and Telford Hospital,Current,1,1,1,1,60.0,70.0,10.0
+South Devon Healthcare,2004-05,1,1,1,1,52.0,52.0,0.0
+South Devon Healthcare,2005-06,1,1,1,1,44.0,44.0,0.0
+South Devon Healthcare,Current,1,1,1,1,40.0,40.0,0.0
+South Manchester University Hospitals,2004-05,1,1,1,1,4.0,12.0,8.0
+South Manchester University Hospitals,2005-06,1,1,1,1,12.0,24.0,12.0
+South Manchester University Hospitals,Current,1,1,1,1,16.0,16.0,0.0
+South Warwickshire General Hospitals,2004-05,1,1,1,0,,,
+South Warwickshire General Hospitals,2005-06,1,1,1,0,,,
+South Warwickshire General Hospitals,Current,1,1,1,0,54.0,110.0,56.0
+Southampton Hospitals,2004-05,1,1,1,1,51.0,28.0,-23.0
+Southampton Hospitals,2005-06,1,1,1,1,63.0,37.0,-26.0
+Southampton Hospitals,Current,1,1,1,1,57.0,28.0,-29.0
+Southend University Hospital,2004-05,1,1,1,1,27.0,33.0,6.0
+Southend University Hospital,2005-06,1,1,1,1,32.0,52.0,20.0
+Southend University Hospital,Current,1,1,1,1,20.0,14.0,-6.0
+Southport and Ormskirk Hospital,2004-05,1,1,1,1,26.3,64.7,38.4
+Southport and Ormskirk Hospital,2005-06,1,1,1,1,20.7,84.3,63.6
+Southport and Ormskirk Hospital,Current,1,1,1,1,17.0,73.0,56.0
+St George's Healthcare,2004-05,1,1,1,0,10.0,,
+St George's Healthcare,2005-06,1,1,1,0,9.0,,
+St George's Healthcare,Current,1,1,1,0,11.0,24.0,13.0
+St Mary's,2004-05,1,1,1,0,,,
+St Mary's,2005-06,1,1,1,0,,,
+St Mary's,Current,1,1,1,0,68.0,68.0,0.0
+Stockport,2004-05,1,1,1,1,36.0,36.0,0.0
+Stockport,2005-06,1,1,1,1,72.0,72.0,0.0
+Stockport,Current,1,1,1,1,88.0,114.0,26.0
+Taunton and Somerset,2004-05,1,1,1,1,45.0,47.0,2.0
+Taunton and Somerset,2005-06,1,1,1,1,12.0,45.0,33.0
+Taunton and Somerset,Current,1,1,1,1,12.0,37.0,25.0
+The Hammersmith Hospitals,2004-05,1,1,1,1,10.0,20.0,10.0
+The Hammersmith Hospitals,2005-06,1,1,1,1,12.0,20.0,8.0
+The Hammersmith Hospitals,Current,1,1,1,1,20.0,40.0,20.0
+The Mid Yorkshire Hospitals,2004-05,1,1,1,1,48.0,53.0,5.0
+The Mid Yorkshire Hospitals,2005-06,1,1,1,1,74.0,96.0,22.0
+The Mid Yorkshire Hospitals,Current,1,1,1,1,74.0,110.0,36.0
+The Rotherham,2004-05,1,1,1,1,24.5,24.5,0.0
+The Rotherham,2005-06,1,1,1,1,21.5,21.5,0.0
+The Rotherham,Current,1,1,1,1,12.0,13.0,1.0
+Trafford Healthcare,2004-05,1,1,1,1,13.0,47.0,34.0
+Trafford Healthcare,2005-06,1,1,1,1,23.0,16.0,-7.0
+Trafford Healthcare,Current,1,1,1,1,20.0,15.0,-5.0
+United Bristol Healthcare,2004-05,1,1,1,1,38.0,32.0,-6.0
+United Bristol Healthcare,2005-06,1,1,1,1,23.0,23.0,0.0
+United Bristol Healthcare,Current,1,1,1,1,18.0,18.0,0.0
+United Lincolnshire Hospitals,2004-05,1,1,1,1,18.0,22.0,4.0
+United Lincolnshire Hospitals,2005-06,1,1,1,1,32.0,51.0,19.0
+United Lincolnshire Hospitals,Current,1,1,1,1,49.0,88.0,39.0
+University Hospital Birmingham,2004-05,1,1,1,1,56.0,20.0,-36.0
+University Hospital Birmingham,2005-06,1,1,1,1,56.0,20.0,-36.0
+University Hospital Birmingham,Current,1,1,1,1,46.0,18.0,-28.0
+University Hospital North Tees,2004-05,1,1,1,1,27.0,27.0,0.0
+University Hospital North Tees,2005-06,1,1,1,1,29.0,27.0,-2.0
+University Hospital North Tees,Current,1,1,1,1,29.0,34.0,5.0
+University Hospitals,2004-05,1,1,0,0,52.0,49.0,-3.0
+University Hospitals,2005-06,1,1,0,0,36.0,36.0,0.0
+University Hospitals,Current,1,1,0,0,52.0,52.0,0.0
+University Hospitals Coventry and Warwickshire,2004-05,0,1,0,0,,,
+University Hospitals Coventry and Warwickshire,2005-06,0,1,0,0,,,
+University Hospitals Coventry and Warwickshire,Current,0,1,0,0,,30.0,
+University Hospitals of Leicester,2004-05,1,1,1,0,25.0,24.0,-1.0
+University Hospitals of Leicester,2005-06,1,1,1,0,22.0,27.0,5.0
+University Hospitals of Leicester,Current,1,1,1,0,,,
+University Hospitals of Morecambe Bay,2004-05,1,1,1,1,44.0,44.0,0.0
+University Hospitals of Morecambe Bay,2005-06,1,1,1,1,44.0,44.0,0.0
+University Hospitals of Morecambe Bay,Current,1,1,1,1,46.0,46.0,0.0
+Walsall Hospitals,2004-05,1,1,1,0,,,
+Walsall Hospitals,2005-06,1,1,1,0,18.0,70.0,52.0
+Walsall Hospitals,Current,1,1,1,0,18.0,65.0,47.0
+Warwickshire,2004-05,1,0,0,0,,,
+Warwickshire,2005-06,1,0,0,0,,,
+Warwickshire,Current,1,0,0,0,73.0,,
+West Suffolk Hospital,2004-05,1,1,1,1,18.0,20.0,2.0
+West Suffolk Hospital,2005-06,1,1,1,1,16.0,17.0,1.0
+West Suffolk Hospital,Current,1,1,1,1,16.0,16.0,0.0
+Weston Area Hospital,2004-05,1,1,1,0,,,
+Weston Area Hospital,2005-06,1,1,1,0,68.0,68.0,0.0
+Weston Area Hospital,Current,1,1,1,0,100.0,100.0,0.0
+Whittington Hospital,2004-05,1,1,1,1,52.0,52.0,0.0
+Whittington Hospital,2005-06,1,1,1,1,52.0,52.0,0.0
+Whittington Hospital,Current,1,1,1,1,12.0,4.0,-8.0
+Wirral Hospital,2004-05,1,1,1,1,38.0,163.0,125.0
+Wirral Hospital,2005-06,1,1,1,1,52.0,169.0,117.0
+Wirral Hospital,Current,1,1,1,1,68.0,169.0,101.0
+"Wrightington, Wigan and Leigh",2004-05,1,1,1,1,34.0,30.0,-4.0
+"Wrightington, Wigan and Leigh",2005-06,1,1,1,1,42.0,52.0,10.0
+"Wrightington, Wigan and Leigh",Current,1,1,1,1,56.0,78.0,22.0
+York Hospitals,2004-05,1,1,1,1,64.0,78.0,14.0
+York Hospitals,2005-06,1,1,1,1,52.0,52.0,0.0
+York Hospitals,Current,1,1,1,1,38.0,38.0,0.0

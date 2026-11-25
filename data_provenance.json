@@ -37,10 +37,10 @@
       "role": "Manual transcription"
     },
     {
-      "path": "figures/model_mechanism_illustrated.png",
-      "sha256": "5d2bf33dbca8ce53a5dd2f53c9cd7fcaf6f3acbb12b2a2f3eb95ccd0ab7707b0",
+      "path": "tikz/model_mechanism_illustrated.tex",
+      "sha256": "da49c30506ddfcfd543587e3bd5535aa402d7bd726b5b39357ac325ae75a74c4",
       "source_url": null,
-      "role": "Supplied illustrated asset"
+      "role": "Equilibrium diagram source; r_j is the clinical service requirement per adopter"
     },
     {
       "path": "replication/nhs_aqp_data/raw/2013-04_completed.xls",
@@ -233,6 +233,36 @@
       "sha256": "289ea4e8da431637299905a393137a7b99d4571b21cd38b4533504e3413d353b",
       "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Incomplete-Pathways-Commissioner-Provider-View-Jul14-XLS-238K.xls",
       "role": "Original NHS commissioner/provider workbook"
+    },
+    {
+      "path": "replication/uk_queues/raw/shapps.html",
+      "sha256": "5f4a5e13050cfa4f4a8a37cf0c02a626d42f0b21f0ffb2a38c5eb3af06383ea8",
+      "source_url": "https://publications.parliament.uk/pa/cm200607/cmselect/cmhealth/392/392we44.htm",
+      "role": "Official written evidence, tables 2a and 2b"
+    },
+    {
+      "path": "replication/london_queues/lewisham_june2007.pdf",
+      "sha256": "5fa7938a2c6b3bcf314a92665e531998b24218e441c24c086bb3ca20df1f0f39",
+      "source_url": "https://lewisham.moderngov.co.uk/Data/Healthier%20Communities%20Select%20Committee/20070711/Agenda/dfb5b29c7bc640a4aa57daf83e2768064AppendixAAudiologyserviceatUHLJune2007.PDF",
+      "role": "Local NHS report, pages 2–3"
+    },
+    {
+      "path": "replication/ni_audiology/raw/aqw44550_answer.xml",
+      "sha256": "4aca4bda6c0ec8bf759b9521316e585036377edf7a1f4cca746be4acc3028aac",
+      "source_url": "https://data.niassembly.gov.uk/questions.asmx/GetWrittenAnswerOpenXml?documentId=481151",
+      "role": "Official answer table in XML"
+    },
+    {
+      "path": "replication/ni_audiology/raw/aqw44550_record.xml",
+      "sha256": "b9ba271affbfbe612ebf03b71ac06d8c54be4567489a8a88252e96ef8975b2ec",
+      "source_url": "https://data.niassembly.gov.uk/questions.asmx/GetQuestionDetails?documentId=481151",
+      "role": "Independent representation of same answer"
+    },
+    {
+      "path": "replication/korea_registration/published_cohorts.csv",
+      "sha256": "445ebd69f4eab99658ff5b12d669ec5a91a61cf9fbc3220fda9be90ddf2b5e3a",
+      "source_url": "https://doi.org/10.1038/s41598-022-17459-7",
+      "role": "Transcription of Table 2 and Figure 4 published counts and rounded percentages"
     }
   ]
 }

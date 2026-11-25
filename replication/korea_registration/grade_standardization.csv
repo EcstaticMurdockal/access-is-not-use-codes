@@ -1,0 +1,5 @@
+before,after,standard_population,observed_difference_pp,standardized_before_pct,standardized_after_pct,standardized_difference_pp,rounding_min_pp,rounding_max_pp
+2014,2016,2014,18.3000,66.9769,85.1889,18.2120,18.1120,18.3120
+2013,2016,2013,20.2000,65.0974,85.1681,20.0708,19.9708,20.1708
+2014,2017,2014,16.8000,66.9769,83.5152,16.5382,16.4382,16.6382
+2013,2017,2013,18.7000,65.0974,83.4761,18.3788,18.2788,18.4788

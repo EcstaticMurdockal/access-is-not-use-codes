@@ -26,9 +26,9 @@ with tempfile.TemporaryDirectory() as tmp:
     probe.write_text(r'\documentclass{article}\usepackage{fontspec}\setmainfont{Arial}\begin{document}Arial\end{document}')
     check=subprocess.run(['xelatex','-interaction=nonstopmode','-halt-on-error','-output-directory='+tmp,str(probe)],cwd=ROOT,env=env,capture_output=True,text=True)
     if check.returncode:
-        raise RuntimeError('XeLaTeX cannot load Arial. Install a licensed Arial font, or use reproduce_all.py --use-supplied-figures. No figures were overwritten.')
+        raise RuntimeError('XeLaTeX cannot load Arial. Install a licensed Arial font, or run python reproduce_all.py --analysis-only to use the supplied figures.')
 subprocess.run([sys.executable, str(ROOT/'make_paper_figures.py')], check=True, env=env)
-for stem in ['causal_evidence_map']:
+for stem in ['model_mechanism_illustrated', 'causal_evidence_map']:
     result = subprocess.run(['xelatex','-interaction=nonstopmode','-halt-on-error',
         '-output-directory='+str(ROOT/'figures'), str(ROOT/'tikz'/f'{stem}.tex')],
         cwd=ROOT, env=env, capture_output=True, text=True)
@@ -36,4 +36,9 @@ for stem in ['causal_evidence_map']:
     result.check_returncode()
     doc = fitz.open(ROOT/'figures'/f'{stem}.pdf')
     doc[0].get_pixmap(matrix=fitz.Matrix(2,2)).save(ROOT/'figures'/f'{stem}.png')
-print('Rebuilt programmatic paper figures; supplied model artwork retained.')
+queues = ROOT / 'replication' / 'uk_queues'
+subprocess.run([sys.executable, str(queues/'reproduce.py')], check=True, env=env)
+subprocess.run([sys.executable, str(queues/'plot_uk_wait_gaps.py'),
+                str(queues/'results/provider_waits.csv'), str(ROOT/'figures/uk_wait_gaps.pdf')],
+               check=True, env=env)
+print('Rebuilt model and evidence diagrams and programmatic paper figures.')

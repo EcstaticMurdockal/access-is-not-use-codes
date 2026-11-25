@@ -1,0 +1,36 @@
+{
+  "command": "python run_finals_replication.py",
+  "run_date": "2026-11-25",
+  "environment": "Python 3.12.14, Linux. Full pipeline run in a clean copy of the numerical distribution with 13 hash-verified public CMS and Census inputs staged in the download cache. The PRICE and supported-fitting stages fetched their upstream inputs.",
+  "exit_code": 0,
+  "matched_previously_registered_baseline_outputs": 30,
+  "matched_previously_registered_medicare_outputs": 6,
+  "new_outputs_rebuilt_and_matched_to_distribution": {
+    "replication/uk_queues/results/provider_waits.csv": "4c9ee87de5653cd3cd09dba490a4ed4a7da8f4f25c160952e73a923519e2a3ce",
+    "replication/uk_queues/results/paired_summaries.csv": "36fa28f1d015cd50960e544d8d7fe4402c3bdde84c16432d04f92e0571ab0750",
+    "replication/uk_queues/results/matching_audit.json": "a202c29fb51e0dadb1f4633db029adda7ca2971790b35033318930b28097cb1c",
+    "replication/ni_audiology/results/ni_hearing_aid_review_queue.csv": "0c351d2a3d846f4c137c6ef7171efe85c5f97c94fcf2ef84b6b1bb5038808ed3",
+    "replication/ni_audiology/results/ni_hearing_aid_review_queue.json": "12411319853697a186a9edecec904bbdb7bb85b84c35c8667a0ddb472a04b2b7",
+    "replication/korea_registration/grade_standardization.csv": "5d59e044e86e43ec004364a73d3c1387e3a6ec691df5f1871888150fef462567",
+    "replication/booking_release/checks.json": "9dacbadcaca50b35dbf31ed5e89fccf97b13ee822749d6ef1dbe276d42f09b46",
+    "replication/model_checks/ranking_bounds.json": "159328d93da2a4943d80bb60381a1a7ac8c06709dcc743106061f2ba17b300dd",
+    "replication/model_checks/ranking_bounds_table.tex": "327464b2b5fc6a852f8c759dba499f5d4c952a169179bffd55aa8ee0b5611834",
+    "replication/pool_response/pool_results.json": "a9964be4fb6d25698d886c5174ee1cf7c0d6986862b3924129e41cd768d54b3d",
+    "replication/hearing_action_plan/contrasts.csv": "c3761fbc46b13763188f92273984febf16b5308402ceb33a22c90ab2b519d20f",
+    "replication/hearing_action_plan/contrasts_table.tex": "5d6540af125fa5802044dcbf0efdbb465970d1663dde135d12f3ee6780ebb2e9",
+    "replication/hearing_action_plan/tipping.csv": "2cb34093c70dd37d61079d31367cb604f766337fed16fc258a05c47557b7d9d5",
+    "replication/model_checks/policy_incidence.json": "8e8dae3911fad26e5a97e4f53d3562861d096eac4a48116c817b20d695b708fa",
+    "replication/model_checks/policy_incidence_table.tex": "543b8a97e8792935990fa68bd9260b651d9f35cc534bf63b93122900a3aabf0e",
+    "replication/model_checks/incumbent_valuation_table.tex": "00c3b57a80a364797de699e88b2a7fabb7c5a04a772f9d5bf74c4bb91321662a"
+  },
+  "additional_checks": [
+    "Lewisham source PDF SHA-256 and four transcribed rows verified; raster OCR separately matched all four rows.",
+    "Main trust distribution recalculated from both wait columns; 83 complete pairs, 13 shorter, 21 equal, 49 longer; both tails retained.",
+    "Full manuscript rebuilt with pdfLaTeX. New figure and evidence map use embedded Arial and were visually inspected.",
+    "The signed welfare bound agreed with exhaustive endpoint enumeration for all 27 sign patterns in a three-group check. Linked-pool responses agreed with nonlinear equilibrium changes under both technologies to within 4e-11.",
+    "I-PLAN plan effects from the four independently randomized arms: +1.50 logged hours/day without the prompt and -1.60 with it. Equal-weight contrast -0.05, unadjusted interaction -3.10.",
+    "Independent enumeration of the incumbent valuation endpoints gave H bounds [0.0488640047, 0.9519346418] at eta=0.50 and [-0.0035048464, 0.8393610815] at eta=0.40. The lower gap crosses zero at 0.4066926165.",
+    "The figure and numerical results are distributed with editable sources. The paper baseline command was recovered verbatim using both Poppler and PyMuPDF."
+  ],
+  "release": "v1.4.0"
+}

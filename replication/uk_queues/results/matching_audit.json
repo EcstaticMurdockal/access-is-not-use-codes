@@ -1,0 +1,24 @@
+{
+  "table_2a_provider_rows": 93,
+  "table_2b_provider_rows": 93,
+  "exact_label_intersection": 92,
+  "primary_candidate_labels": 90,
+  "six_numeric_cells_primary": 65,
+  "ambiguous_labels": [
+    "Healthcare",
+    "University Hospitals"
+  ],
+  "first_table_only": [
+    "Warwickshire"
+  ],
+  "reassessment_table_only": [
+    "University Hospitals Coventry and Warwickshire"
+  ],
+  "explicit_child_labels_in_primary": [
+    "Birmingham Children's Hospital",
+    "Children's University Hospitals",
+    "Great Ormand Street Hospital for Children",
+    "Royal Liverpool Children's",
+    "Salford Hospital (children's hearing aids)"
+  ]
+}

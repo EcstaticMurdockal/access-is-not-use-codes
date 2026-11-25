@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionsList>
+  <Question>
+    <DocumentId>481151</DocumentId>
+    <DocumentType>Question for Written Answer</DocumentType>
+    <Reference>AQW 44550/22-27</Reference>
+    <TablerName>Ms Kellie Armstrong</TablerName>
+    <TablerTitle>MLA - Strangford</TablerTitle>
+    <TablerAffiliationId>18830</TablerAffiliationId>
+    <TablerPersonId>5790</TablerPersonId>
+    <TabledDate>2026-04-22T00:00:00+01:00</TabledDate>
+    <AnsweredOnDate>2026-05-27T00:00:00+01:00</AnsweredOnDate>
+    <QuestionText>To ask the Minister of Health to detail the number of people, issued with health service hearing aids, who are on a waiting list for audiology reassessment to assess hearing and update hearing aid equipment, broken down by Health and Social Care Trust.</QuestionText>
+    <AnswerByDate>2026-05-08T00:00:00+01:00</AnswerByDate>
+    <PriorityRequest>false</PriorityRequest>
+    <MinisterTitle>Minister of Health</MinisterTitle>
+    <MinisterAffiliationId>20697</MinisterAffiliationId>
+    <MinisterPersonId>300</MinisterPersonId>
+    <Department>Department of Health</Department>
+    <AnswerPlainText>The number of people waiting for an audiology review appointment having been issued with an HSC hearing aid is shown in the table below and broken down by HSC Trust.HSC TrustNumber of patients waiting for hearing aid review appointmentBelfast689Northern1,167South Eastern2735Southern2,702Western556Source: HSC Trust audiology Departments (May 2026)Note:Belfast HSC Trust has 250 patients booked to attendNorthern HSC Trust has 61 patients booked to attendThe number of patients waiting in each Trust varies due to some Trusts having long term vacancies in audiology which has reduced capacity. My Department is continually working with Trusts to expand capacity within available resources and explore alternative service provision.   If a patient’s hearing aid is broken they should contact their Audiology Department to arrange repairs.</AnswerPlainText>
+    <DepartmentID>82</DepartmentID>
+    <AnswerOpenXml>https://data.niassembly.gov.uk/questions.asmx/GetWrittenAnswerOpenXml?documentId=481151</AnswerOpenXml>
+    <AnswerHtml>https://data.niassembly.gov.uk/questions.asmx/GetWrittenAnswerHtml?documentId=481151</AnswerHtml>
+  </Question>
+</QuestionsList>

@@ -1,5 +1,9 @@
 # Release history
 
+## v1.4.0
+
+Publishes the finals numerical pipeline, including supporting trial analyses, policy and service-pool checks, and the open-ended device-age calculation. The I-PLAN table now reports the plan contrasts by reminder assignment. The welfare bounds include sensitivity to the external-benefit weight. The editable Figure 1 labels clinical service requirements. The Korean module distinguishes the 2015 benefit reference amount from individual payments.
+
 ## v1.3.1
 
 Generate complete 13-specification and key-contrast tables directly from audited JSON. Numerical estimates are unchanged.

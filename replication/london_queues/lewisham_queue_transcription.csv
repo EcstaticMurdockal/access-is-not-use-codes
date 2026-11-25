@@ -1,0 +1,5 @@
+site,episode,earlier_time,earlier_count,earlier_count_approximate,earlier_wait_months,later_time,later_count,later_wait_weeks
+Queen Mary's Hospital Sidcup,First fitting,A year before report,700,yes,16,Current at report,324,43
+University Hospital Lewisham,First fitting,A year before report,850,no,16,Current at report,527,43
+Queen Mary's Hospital Sidcup,Review of existing analogue user,A year before report,1200,yes,21,Current at report,177,40
+University Hospital Lewisham,Review of existing analogue user,A year before report,900,yes,16,Current at report,118,37

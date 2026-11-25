@@ -1,0 +1,247 @@
+{
+  "run_context": {
+    "python": "3.12.14",
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "tag": "v1.3.1",
+    "base_commit": "253c09ffb4d542ac1bcd2182b5e1ac86f593258d",
+    "cms_module_local_commit": "294003887b49756bf69202dc3a18eff3a081bc74",
+    "python_environment": "Fresh venv with pinned wheels installed during this run. Same Linux host. No shared site packages.",
+    "source": "Tagged repository archive for base; separate untagged extension. Cached hash-verified archives for initial CMS run."
+  },
+  "base_commands": [
+    {
+      "args": [
+        "replication/build_nhs_aqp_panel.py",
+        "--offline"
+      ],
+      "exit": 0,
+      "seconds": 1.828
+    },
+    {
+      "args": [
+        "verify_models.py"
+      ],
+      "exit": 0,
+      "seconds": 1.115
+    },
+    {
+      "args": [
+        "verify_models_round28.py"
+      ],
+      "exit": 0,
+      "seconds": 1.091
+    },
+    {
+      "args": [
+        "reproduce_nhanes_access_use.py"
+      ],
+      "exit": 0,
+      "seconds": 1.321
+    },
+    {
+      "args": [
+        "research_audit_20261124/nhanes_sensitivity.py"
+      ],
+      "exit": 0,
+      "seconds": 1.296
+    },
+    {
+      "args": [
+        "research_audit_20261124/nhanes_influence.py"
+      ],
+      "exit": 0,
+      "seconds": 3.579
+    },
+    {
+      "args": [
+        "research_audit_20261124/nhanes_tables.py"
+      ],
+      "exit": 0,
+      "seconds": 0.021
+    },
+    {
+      "args": [
+        "research_audit_20261124/distribution_stress.py"
+      ],
+      "exit": 0,
+      "seconds": 4.917
+    },
+    {
+      "args": [
+        "research_audit_20261124/corner_regression.py"
+      ],
+      "exit": 0,
+      "seconds": 0.467
+    },
+    {
+      "args": [
+        "research_audit_20261124/reserved_capacity.py"
+      ],
+      "exit": 0,
+      "seconds": 0.425
+    },
+    {
+      "args": [
+        "research_audit_20261124/supply_response.py"
+      ],
+      "exit": 0,
+      "seconds": 0.482
+    },
+    {
+      "args": [
+        "replication/audit_nhs_aqp_pretrends.py"
+      ],
+      "exit": 0,
+      "seconds": 21.801
+    }
+  ],
+  "expected_outputs_sha256": {
+    "base": {
+      "nhanes_reproduction_results.json": "035e3501734e77feeaf1ae98347dfbd28dd4f297ec6ad8a307799e4a6940857d",
+      "verification_results.json": "8f95e3febf99f6f8e7cfb94aaeb09c3d747acac64e9af08ad15793d0862093fd",
+      "heterogeneity_results.csv": "17180abe85f601c38e946427911bc14ee9517a89016c02dca5f797bc2a6bc86d",
+      "heterogeneity_table.tex": "617d2071f6735385e08f1dfc10412e108cc9748fef6cad54d5cfe96efc6e298c",
+      "research_audit_20261124/supply_response_table.tex": "922a375b826ad1f042098c42c480281943a2458ef1c412b786a4c21bbfdaad99",
+      "research_audit_20261124/supply_response_results.json": "d5d171f65ed14947f2e94e81ed3a18c122d4ef5d8e380c11b827e0e1228c1bae",
+      "research_audit_20261124/supply_response_results.csv": "2cfd90a2b81d618dbaa643f00df39dda6f848d03c0c58ce0ca4b80f0a8acc905",
+      "research_audit_20261124/reserved_capacity_table.tex": "f9bfe3768864aefa9fc90138b7abc009d135576e42a797486f5a2a2552ae1cdf",
+      "research_audit_20261124/reserved_capacity_results.json": "2512178a95744bf967ef6b439235e1149f7a963ccd451e202b0d5f11a976258c",
+      "research_audit_20261124/reserved_capacity_results.csv": "b7361dea1b3d702badffab9e85455f6ec8d54deec0bf9f15a6333ad4a6fbe7ec",
+      "research_audit_20261124/nhanes_sensitivity_results.json": "fce94b46b478404003dba9b415c3fbeeb5bde25d258d6c5e0eddb9f1c725cc23",
+      "research_audit_20261124/nhanes_sensitivity_results.csv": "5e70f5b1482a0262b1b3365e69bcc954173217d32537b00517d49c4df231edf2",
+      "research_audit_20261124/nhanes_key_specs_table.tex": "6790ce9f9ddeb4ea382503e6c2ddfc8c19dd46070a10b304c76601f1855e97b6",
+      "research_audit_20261124/nhanes_influence_results.json": "cf7b49adabba40ed83332ca53505b9a795faee58ab59fefc7dc206cf35f50473",
+      "research_audit_20261124/nhanes_influence_results.csv": "7dae659c9b7e762f244ac7c43d2a858a32e1dc3c29bdc470aa8bb0d05558e762",
+      "research_audit_20261124/nhanes_all_specs_table.tex": "831c440f83f270e609ece3c43fe94a040014ea342ca4af32e20471311b86f12c",
+      "research_audit_20261124/distribution_stress_results.json": "22ebe2dceeb18a5849a4cae28044b5b69fb515e869ed2dffec1550034eebe779",
+      "research_audit_20261124/distribution_stress_cases.json": "5f5df0b9ce3db7f964958641dc8fd83505a09d4f7896be1aed95a4132b61e91f",
+      "research_audit_20261124/corner_regression_results.json": "c4f8531b0f08e5bd1e7390bc1a1939d3662e4c985720b6a5f234b616d44c3cda",
+      "replication/nhs_aqp_data/parse_errors.csv": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "replication/nhs_aqp_data/late_aqp_cohort_audit.csv": "2e5069d751248f333eccdebf50630a192ffceec359c888e073b355ea2ba626bf",
+      "replication/nhs_aqp_data/feasibility_summary.csv": "cd384c7590f248bad4299adf8170ad8e9bc2d162d467d42f03513858cdc2fa8f",
+      "replication/nhs_aqp_data/ccg_month_panel.csv": "3fd6920999511c705e4ac7b994a321ed2c2febc967e08d311676483fd346b5ec",
+      "replication/nhs_aqp_pretrend_audit/raw_pretrend_2014_04.csv": "ee570a22cd5c879918c26224b7e1729cb7afc536347298693bfd8a56f0b0aa16",
+      "replication/nhs_aqp_pretrend_audit/raw_pretrend_2013_11.csv": "71d525c6460f3e6e75c0b69eaac6d847d641eb65a923f10faee475ff92b6b8ec",
+      "replication/nhs_aqp_pretrend_audit/pretrend_slope_audit.csv": "669f2f32db10b4affb48bffcba3e433c7ede12babf2916d924c5220ed5bc9281",
+      "replication/nhs_aqp_pretrend_audit/pretrend_acceptance_table.csv": "2ded6e166547c395affed3e9fc31bd7d20fc0cd49cd79b78a1367f1d71169034",
+      "replication/nhs_aqp_pretrend_audit/monitor_status_crosswalk.csv": "21ab312eba261e5be51752938bbad8bf297e70bced29cfb5e3db42d7d5b27476",
+      "replication/nhs_aqp_pretrend_audit/leave_one_treated_out.csv": "b2ec6d51337ec78307f395d6a648d29d5c20e14e20c5f5f32b56099f7e930fcb",
+      "replication/nhs_aqp_pretrend_audit/audit_summary.csv": "43079abef2990a84879373a5ed85b3cb80610e8fc82b27ba9a21647f255e5374"
+    },
+    "cms": {
+      "analysis_panel.csv": "7ddab39a30a9b129ed7093a1cb342ac4bacc9a787c7d968318d1a1c752065285",
+      "results.json": "36912379e16a2d111ba354521ebe8aab0b2db2e4ee4f6aa291c09e11067dd7b9",
+      "event_study.csv": "d5689c4a2b569ffe08456e6ef369d9341be69155598d0776b168337aa0780a4b",
+      "leave_one_state_out.csv": "10d916ebcee8e6b619ebce1990aa666f7319bfbd5be7495a923ba92c90d32aa7",
+      "coverage_panel.csv": "be497aa6f31eda10abe41864438cc109aa2dc9e650549260e582c16ccd61e2a3",
+      "coverage_results.json": "95e1e06949cc6c0bd98afb3746dbc66b2e02bc83da13c00fed3ddad87c694752"
+    }
+  },
+  "figures": {
+    "base_72dpi_rgb_sha256": {
+      "benchmark_access_support_tradeoff.pdf": "c2c3c7c52c8308618e3c9a2eda6465d62296949a907e6eb93374ea101cb84bf5",
+      "capacity_regimes.pdf": "2d9434b07fbc946fd5c6262cddee1aff4a52eb7369977cfd92770544562ee260",
+      "causal_evidence_map.pdf": "8543e64a2d9eef500e715c5817acd4877d88d66b74985b3d2c42dde3c1a99902",
+      "equilibrium_capacity_feedback.pdf": "5ec2512ff2af0e3a617581816dd9f2d9464851c6a21930872dc9d59c5d0e7ac1",
+      "heterogeneity_policy_effects.pdf": "ccbf3a5f9fd8c15958ac8d460c76db59a1aedab2e829db01c02ff693a05699f2",
+      "hsp_multiyear_descriptive.pdf": "e689d192949992a75506d66735babe9ad3535b171985dfa10a2e1079e2b66738",
+      "nhanes_access_use_association.pdf": "6edf26cfb2a4c5cf964bc2ea0eca22ddac5295e56c4227dc70d2fc47891a11b8",
+      "nhanes_sample_flow.pdf": "2df272adc4f99a13140c7e731cbd3b762e81a1facebcfe5137c77d76cc2cc417",
+      "policy_returns_per_dollar.pdf": "b797f8853d34ce94b05d3cd8bfd1de135dfac1c7fbc1dff5e3e36f93bd6b7ec5",
+      "requested_delivered_capacity.pdf": "eac126e470de4672d6be7cc439947ca17267dd12f1da37e8b23df3345b12a52c",
+      "use_benefit_channels.pdf": "4d9169da0d022b0f68a5498df113b35ed6b700280c98b1bdb57a74e3edd6d425"
+    },
+    "cms_png_sha256": "1f5ab3bf8e45f149d98702969fe4035e999b1dc42ae223e0bde5c55e79ab884b",
+    "fixed_artwork_in_regenerated_count": false
+  },
+  "comparison": "Deleted all 30 listed base outputs before their recreation, all six listed extension outputs before their recreation, and compared their SHA-256 with the reference archives.",
+  "upstream_redownload": {
+    "matched": 48,
+    "base_files": "base_source_downloads.json",
+    "cms_files": [
+      {
+        "path": "cms_geo_2014_2024.csv",
+        "url": "https://data.cms.gov/sites/default/files/2026-04/cc600d1e-d475-4b0e-80dc-1f64c01ca68c/2014-2024%20Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File.csv",
+        "sha256": "10c8304012da34da3ecfe4caf4548927095f693383814d0e79ce6711b6806fad",
+        "bytes": 57865948
+      },
+      {
+        "path": "historical_2007_2013.zip",
+        "url": "https://data.cms.gov/sites/default/files/2024-05/c4084cb9-926f-4a8e-af3e-065e2d7e4c15/Historical%20Data%20and%20Documentation%20for%202007-2013.zip",
+        "sha256": "b19cf6e2319082933903caacc671744d973dc7c736d9362f22793c36a6d8c3f3",
+        "bytes": 46863114
+      },
+      {
+        "path": "methodology.pdf",
+        "url": "https://data.cms.gov/sites/default/files/2026-05/Original%20Medicare%20Geographic%20Variation%20Public%20Use%20File%20Methods%20Paper.pdf",
+        "sha256": "e7c6ca8a3cb4cd761f44ee5d5e4ee78a379479a73cd93f69fb116c860a9944ca",
+        "bytes": 196478
+      },
+      {
+        "path": "sahie/2009.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2009-csv.zip",
+        "sha256": "a957d6be9b106b9183c9d4336020552f0cbfcdace5e3fe5878f12f72c77fae32",
+        "bytes": 5518364
+      },
+      {
+        "path": "sahie/2010.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2010-csv.zip",
+        "sha256": "0bfca9d001ab092f1c09b1085b1917a264f3debe019ac41279f7d41721185fff",
+        "bytes": 7010517
+      },
+      {
+        "path": "sahie/2011.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2011-csv.zip",
+        "sha256": "4a45ae16eb5a1056ba9507ff0a61c6965a0768fb0301d20be6995d0a9894f858",
+        "bytes": 6997780
+      },
+      {
+        "path": "sahie/2012.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2012-csv.zip",
+        "sha256": "bc81902b05e1a777903b09cbb22568bb035b70b061dbf3ef1d540b2f4759c760",
+        "bytes": 8383350
+      },
+      {
+        "path": "sahie/2013.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2013-csv.zip",
+        "sha256": "83f17ce5816b358a442966cfbf4d70f7f2b15453b6727f591ca2f0c1f1756158",
+        "bytes": 8373078
+      },
+      {
+        "path": "sahie/2014.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2014-csv.zip",
+        "sha256": "1d8d171b7a006ebc06a9667fe546245edb75b23085626dda999a6dcce3817731",
+        "bytes": 10148413
+      },
+      {
+        "path": "sahie/2015.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2015-csv.zip",
+        "sha256": "052df8828e18bce6bd8735c447ce62f17de77b509ad260f2d652914ed1c83715",
+        "bytes": 10086067
+      },
+      {
+        "path": "sahie/2016.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2016-csv.zip",
+        "sha256": "f06b7c857e1f72f1ef24d2b9412b2a6d028cd88d87b9f0ae5025653b5954551a",
+        "bytes": 10050508
+      },
+      {
+        "path": "sahie/2017.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2017-csv.zip",
+        "sha256": "a24d87b0f2ad62c7c774e68966dd45c3cbdb449ddfa307e2c389cb1f490bd058",
+        "bytes": 10056562
+      },
+      {
+        "path": "sahie/2018.zip",
+        "url": "https://www2.census.gov/programs-surveys/sahie/datasets/time-series/estimates-acs/sahie-2018-csv.zip",
+        "sha256": "dbec1c9018d432acfdd4f86e6f0f31cd0c3d6818aebebd0283ffe53a8e9143be",
+        "bytes": 10053953
+      }
+    ],
+    "fresh_input_rerun": {
+      "base_12_steps": "passed",
+      "base_exact_outputs": 30,
+      "cms_exact_outputs": 6
+    }
+  }
+}

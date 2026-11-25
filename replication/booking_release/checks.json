@@ -1,0 +1,10 @@
+{
+  "exact_cases": 11979,
+  "illustrative_units": {
+    "rostered": 100,
+    "booked": 20,
+    "new_users": 16,
+    "incumbents": 82,
+    "unassigned_to_either_cohort": 2
+  }
+}
