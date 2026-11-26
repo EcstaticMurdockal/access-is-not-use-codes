@@ -1,5 +1,9 @@
 # Release history
 
+## v1.5.0
+
+Adds reproducible analyses of professional consultation after a subsidized purchase in Tokyo, purchase histories in France, US audiology visits and guided rehabilitation for existing Swedish users. Two additional checks cover Korean use surveys and NHS fitting versus pathway counts. Each result includes a cited public input and an offline rebuilding command. These sources leave the subsidy effect on a clinic’s existing patients’ follow-up unidentified.
+
 ## v1.4.0
 
 Publishes the finals numerical pipeline, including supporting trial analyses, policy and service-pool checks, and the open-ended device-age calculation. The I-PLAN table now reports the plan contrasts by reminder assignment. The welfare bounds include sensitivity to the external-benefit weight. The editable Figure 1 labels clinical service requirements. The Korean module distinguishes the 2015 benefit reference amount from individual payments.

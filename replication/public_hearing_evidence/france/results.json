@@ -1,0 +1,118 @@
+{
+  "non-CSS": {
+    "no_prior_2018_thousands": {
+      "central": 120.68,
+      "rounding_envelope": [
+        118.388,
+        122.978
+      ]
+    },
+    "no_prior_2021_thousands": {
+      "central": 377.0,
+      "rounding_envelope": [
+        373.118,
+        380.887
+      ]
+    },
+    "increase_no_prior_thousands": {
+      "central": 256.32,
+      "rounding_envelope": [
+        250.14,
+        262.5
+      ]
+    },
+    "increase_with_prior_thousands": {
+      "central": 37.68,
+      "rounding_envelope": [
+        31.3,
+        44.06
+      ]
+    },
+    "total_increase_thousands": {
+      "central": 294.0,
+      "rounding_envelope": [
+        293.0,
+        295.0
+      ]
+    },
+    "fraction_net_growth_no_prior_percent": {
+      "central": 87.184,
+      "rounding_envelope": [
+        85.064,
+        89.317
+      ]
+    },
+    "composition_change_percentage_points": {
+      "central": 24.0,
+      "rounding_envelope": [
+        23.0,
+        25.0
+      ]
+    },
+    "break_even_misclassified_2021_percent_if_zero_in_2018": {
+      "central": 67.989,
+      "rounding_envelope": [
+        67.041,
+        68.918
+      ]
+    }
+  },
+  "CSS": {
+    "no_prior_2018_thousands": {
+      "central": 7.84,
+      "rounding_envelope": [
+        7.492,
+        8.192
+      ]
+    },
+    "no_prior_2021_thousands": {
+      "central": 33.6,
+      "rounding_envelope": [
+        33.013,
+        34.193
+      ]
+    },
+    "increase_no_prior_thousands": {
+      "central": 25.76,
+      "rounding_envelope": [
+        24.82,
+        26.7
+      ]
+    },
+    "increase_with_prior_thousands": {
+      "central": 8.24,
+      "rounding_envelope": [
+        7.56,
+        8.92
+      ]
+    },
+    "total_increase_thousands": {
+      "central": 34.0,
+      "rounding_envelope": [
+        33.0,
+        35.0
+      ]
+    },
+    "fraction_net_growth_no_prior_percent": {
+      "central": 75.765,
+      "rounding_envelope": [
+        74.514,
+        77.091
+      ]
+    },
+    "composition_change_percentage_points": {
+      "central": 14.0,
+      "rounding_envelope": [
+        13.0,
+        15.0
+      ]
+    },
+    "break_even_misclassified_2021_percent_if_zero_in_2018": {
+      "central": 76.667,
+      "rounding_envelope": [
+        75.184,
+        78.087
+      ]
+    }
+  }
+}

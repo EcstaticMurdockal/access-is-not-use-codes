@@ -1,0 +1,5 @@
+arm,n_surviving,any_visit_pct,mean_visits,sd_visits,using_aid_pct
+No screening,897,11.4,0.21,0.76,3.3
+Tone screening,454,14.5,0.29,0.88,6.4
+Questionnaire,449,23.2,0.32,0.68,4.1
+Combined screening,451,27.1,0.42,0.86,7.5

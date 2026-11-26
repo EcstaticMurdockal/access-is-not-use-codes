@@ -1,9 +1,17 @@
 # Access Is Not Use — finals replication
 
-Version v1.4.0 contains the numerical results, data, code and figure sources for the finals manuscript. RESULTS_MAP.csv identifies the inputs, outputs and rebuilding commands for the figures and tables. Download the release archive or clone the matching tag:
+Version v1.5.0 contains the numerical results, data, code and figure sources for the finals manuscript. RESULTS_MAP.csv identifies the inputs, outputs and rebuilding commands for the figures and tables. Download the release archive or clone the matching tag:
 
-    git clone --branch v1.4.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
+    git clone --branch v1.5.0 --depth 1 https://github.com/EcstaticMurdockal/access-is-not-use-codes.git
     cd access-is-not-use-codes
+
+## Purchase and aftercare evidence
+
+From the repository root, run the four analyses reported in the revised manuscript:
+
+    python replication/public_hearing_evidence/replicate.py
+
+This offline command uses only the Python standard library. It reconstructs the Tokyo subsidy-recipient consultation bounds, the French eight-year purchase-history decomposition, clinic visit contrasts from the US screening trial and questionnaire contrasts for established Swedish users. Source tables, calculations and limits of interpretation are listed in the [evidence package](replication/public_hearing_evidence/README.md). With the finals requirements installed, append `--extended` to include the Korean survey and the English pathway checks. The full numerical command below includes all six.
 
 ## Reproduce the numerical results
 
@@ -16,7 +24,7 @@ python run_finals_replication.py
 
 The full command uses public downloads for the CMS, Census, PRICE and Jiang inputs (about 200 MB). SHA-256 checks identify exact releases. The PRICE workbook stays in memory and only aggregate results are written. The CMS and Census raw files are cached under their module. The code stops if any stage fails. `RESULTS_MAP.csv` links the figures and tables to their inputs, scripts and outputs. Each empirical module has its own README. For baseline computations using the included data, run `python reproduce_all.py --analysis-only`. To regenerate the eyeglass and Medicare plots, use the plot commands in their READMEs with an installed copy of Arial.
 
-The complete numerical pipeline was rerun from an extracted release. See `replication/clean_reproduction/2026-11-25-validation.json` for input treatment, checks, and new result hashes. The waiting-list and registration analyses and the booking checks run offline. From the archive root, run the scripts below with Python 3. The Lewisham PDF check requires Poppler's pdftotext. The parliamentary return is archived as HTML and requires only the Python standard library. Each module README identifies its source, population and unit. To regenerate the signed wait-gap figure, run the plot command in replication/uk_queues/README.md.
+The v1.4.0 numerical pipeline was rerun from its extracted release. See `replication/clean_reproduction/2026-11-25-validation.json` for input treatment, checks, and new result hashes. The waiting-list and registration analyses and the booking checks run offline. From the archive root, run the scripts below with Python 3. The Lewisham PDF check requires Poppler's pdftotext. The parliamentary return is archived as HTML and requires only the Python standard library. Each module README identifies its source, population and unit. To regenerate the signed wait-gap figure, run the plot command in replication/uk_queues/README.md.
 
     python replication/uk_queues/reproduce.py
     python replication/london_queues/verify_lewisham_queues.py
@@ -58,7 +66,7 @@ After a run from the extracted archive, the following command compares the curre
 
 ## Run only the offline baseline
 
-The historical baseline can be inspected at tag v1.3.1. The following commands run this subset from the current v1.4.0 checkout. MANIFEST_SHA256.json records the pre-run release files.
+The historical baseline can be inspected at tag v1.3.1. The following commands run this subset from this checkout. MANIFEST_SHA256.json records the pre-run release files.
 
 Use Python **3.12** (tested patch version 3.12.14). Create an isolated environment:
 
@@ -133,4 +141,4 @@ For errors, open a GitHub issue with the release tag, command, Python/package ve
 
 ## Exploratory policy-spillover extension
 
-The [Medicare spillover pilot](replication/medicare_spillover_pilot/README.md) contains a separate public-data state-level DiD analysis and a Census insurance-coverage check. The full v1.4.0 runner includes this module. The offline baseline command omits it. The primary utilization estimate is imprecise and indistinguishable from zero; this is not a validated hearing-aid congestion estimate. Source downloads, hashes, commands, all outcomes and diagnostics are provided.
+The [Medicare spillover pilot](replication/medicare_spillover_pilot/README.md) contains a separate public-data state-level DiD analysis and a Census insurance-coverage check. The full runner includes this module. The offline baseline command omits it. The primary utilization estimate is imprecise and indistinguishable from zero; this is not a validated hearing-aid congestion estimate. Source downloads, hashes, commands, all outcomes and diagnostics are provided.

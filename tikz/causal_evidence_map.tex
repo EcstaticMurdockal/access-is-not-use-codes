@@ -9,39 +9,36 @@
 \definecolor{mint}{HTML}{EEF7E9}\definecolor{me}{HTML}{238579}
 \definecolor{apricot}{HTML}{FFF4E3}\definecolor{ae}{HTML}{C2762B}
 \definecolor{lavender}{HTML}{F0EAF9}\definecolor{le}{HTML}{8059A6}
-\begin{document}
+\begin{document}\hyphenpenalty=10000\exhyphenpenalty=10000
 \begin{tikzpicture}[text=black,font=\small,
  card/.style={draw,line width=.9pt,rounded corners=5pt,align=center,inner sep=8pt},
  flow/.style={-{Stealth[length=3.4mm,width=3.4mm]},draw=ink,line width=2.2pt}]
 \node[anchor=west,font=\bfseries\large] at (-1.8,3) {A\quad Proposed mechanism: evidence by link};
 \node[card,fill=blue,draw=be,text width=2.9cm,minimum height=1.5cm] (a) at (0,1.7) {Coverage /\\net device price};
 \node[card,fill=blue,draw=be,text width=2.9cm,minimum height=1.5cm] (b) at (4.2,1.7) {New device\\receipt};
-\node[card,fill=mint,draw=me,text width=2.9cm,minimum height=1.5cm] (c) at (8.4,1.7) {Shared professional-\\service load};
+\node[card,fill=mint,draw=me,text width=2.9cm,minimum height=1.5cm] (c) at (8.4,1.7) {Load on shared\\professional services};
 \node[card,fill=apricot,draw=ae,text width=2.9cm,minimum height=1.5cm] (d) at (12.6,1.7) {Support delivered\\to incumbents};
 \node[card,fill=apricot,draw=ae,text width=2.9cm,minimum height=1.5cm] (e) at (16.8,1.7) {Incumbent\\use / benefit};
 \foreach \a/\b/\n in {a/b/1,b/c/2,c/d/3,d/e/4}{
  \draw[flow] (\a.east)--node[above=3pt,font=\bfseries]{\n}(\b.west);}
 \node[align=left,anchor=north west,text width=4.5cm] at (-1.8,.4)
- {\textbf{1\quad Provisional policy DiD}\\[5pt]Receipt/use measures do not isolate first adoption from replacement.};
+ {\textbf{1\quad Coverage and receipt}\\[5pt]Policy estimates include repeat buyers. French claims allow an eight-year lookback.};
 \node[align=left,anchor=north west,text width=4.5cm] at (3.5,.4)
- {\textbf{2\quad Institutional support}\\[5pt]Causal response of shared service load is not identified.};
+ {\textbf{2\quad Contact after purchase}\\[5pt]Tokyo: at least 69.7\% of respondents new to hearing aids sought professional help.};
 \node[align=left,anchor=north west,text width=4.5cm] at (8.8,.4)
- {\textbf{3\quad Crowd-out gap}\\[5pt]The effect on incumbent support is not identified.};
+ {\textbf{3\quad Incumbent follow-up}\\[5pt]The change in existing patients' care per additional entrant remains unmeasured.};
 \node[align=left,anchor=north west,text width=4.5cm] at (14.1,.4)
- {\textbf{4\quad Outcome gap}\\[5pt]The effect of congestion-induced support loss is not identified.};
-\node[anchor=west,font=\bfseries\large] at (-1.8,-1.8) {B\quad Evidence with different identification targets};
-\node[card,fill=lavender,draw=le,text width=9.3cm,minimum height=2.5cm] at (3.1,-3.5)
- {\textbf{Randomized service-package evidence}\\[8pt]
- Assigned package $\longrightarrow$ participant skills / use / benefit\\[7pt]
- Effects depend on the intervention, population and outcome.\\[5pt]
- Does not identify policy-induced losses among incumbents.};
-\node[card,fill=blue,draw=be,text width=9.3cm,minimum height=2.5cm] at (13.7,-3.5)
- {\textbf{Descriptive and institutional evidence}\\[8pt]
- England: paired first-fitting and reassessment wait figures.\\[5pt]
- Northern Ireland: aid recipients awaiting review.\\[7pt]
- Both record waiting. Neither measures displacement per entrant.};
-\node[align=center] at (8.4,-5.65)
- {Shared, binding capacity and an insufficient supply response are conditions for crowding.\\[4pt]
- Evidence for individual links does not identify the entire mechanism.};
+ {\textbf{4\quad Incumbent outcomes}\\[5pt]The effect of congestion on existing users' hearing outcomes remains unmeasured.};
+\node[anchor=west,font=\bfseries\large] at (-1.8,-2.30) {B\quad What the studies measured};
+\node[card,fill=lavender,draw=le,text width=9.3cm,minimum height=3.25cm] at (3.1,-4.20)
+ {\textbf{Randomized comparisons}\\[7pt]
+ US dual screening vs usual care: 21 extra audiology visits per 100 survivors in one year.\\[5pt]
+ In Sweden, guided rehabilitation improved reported hearing handicap against a waiting list. Gains were unclear against reading materials.};
+\node[card,fill=blue,draw=be,text width=9.3cm,minimum height=3.25cm] at (13.7,-4.20)
+ {\textbf{Surveys and administrative records}\\[7pt]
+ Tokyo subsidy recipients reported advice on hearing-aid use or readjustment from a physician or technician.\\[5pt]
+ England recorded fitting and reassessment waits. Northern Ireland counted recipients awaiting review.};
+\node[align=center] at (8.4,-6.28)
+ {Crowding requires new and existing users to share a constrained service, with too little extra capacity to absorb the new demand.};
 \end{tikzpicture}
 \end{document}

@@ -1,0 +1,10 @@
+screening_arm,outcome,difference_per_100,approx_95_low,approx_95_high,rounding_low_delta,rounding_high_delta,rounding_95_envelope_low,rounding_95_envelope_high
+Tone screening,total,8.000,-1.501,17.501,7.230,8.782,-2.327,18.339
+Tone screening,first,3.100,-0.753,6.953,3.166,3.166,-0.688,7.021
+Tone screening,subsequent,4.900,-1.963,11.763,4.063,5.616,-2.895,12.554
+Questionnaire,total,11.000,2.981,19.019,10.221,11.781,2.146,19.856
+Questionnaire,first,11.800,7.372,16.228,11.791,11.791,7.366,16.216
+Questionnaire,subsequent,-0.800,-5.880,4.280,-1.570,-0.010,-6.752,5.152
+Combined screening,total,21.000,11.633,30.367,20.280,21.838,10.857,31.261
+Combined screening,first,15.700,11.096,20.304,15.680,15.680,11.079,20.280
+Combined screening,subsequent,5.300,-1.080,11.680,4.601,6.158,-1.863,12.610

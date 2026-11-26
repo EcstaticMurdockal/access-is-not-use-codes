@@ -263,6 +263,258 @@
       "sha256": "445ebd69f4eab99658ff5b12d669ec5a91a61cf9fbc3220fda9be90ddf2b5e3a",
       "source_url": "https://doi.org/10.1038/s41598-022-17459-7",
       "role": "Transcription of Table 2 and Figure 4 published counts and rounded percentages"
+    },
+    {
+      "path": "replication/public_hearing_evidence/minato/source_counts.csv",
+      "sha256": "1988efd19999852afcda3f10c3e38dfbfdf958eb7e11065c99193a68c1394de7",
+      "source_url": "https://www.city.minato.tokyo.jp/documents/122393/r4hp.pdf",
+      "role": "Minato City questionnaire totals; the three fiscal-year source URLs are listed per row."
+    },
+    {
+      "path": "replication/public_hearing_evidence/france/receipt_history.csv",
+      "sha256": "d03c7fa8f511b576e623d6277b4b5dd59079a7fa2fbd71c1aae737b318f9b685",
+      "source_url": "https://www.ccomptes.fr/sites/default/files/2023-10/20220728-100-pourcent-sante.pdf",
+      "role": "Cour des comptes table 6 and accompanying text, pp. 27–28."
+    },
+    {
+      "path": "replication/public_hearing_evidence/peer/arm_data.csv",
+      "sha256": "dce474c7a5f18b00ac90413a1363ef48cce1f10c2cca0a05324a7ecf6538aa33",
+      "source_url": "https://doi.org/10.1682/JRRD.2010.03.0041",
+      "role": "Liu et al., Table 3, arm-level audiology visit statistics."
+    },
+    {
+      "path": "replication/public_hearing_evidence/incumbent_support/trial_arm_means.csv",
+      "sha256": "c27ba32fea22d0dffff76416a4c26124346789a2edaa77b1332be10f4404ca79",
+      "source_url": "https://doi.org/10.1136/bmjopen-2016-013047",
+      "role": "Malmberg et al., Table 2, observed arm means."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/committee_counts.csv",
+      "sha256": "9aadc265c2bfbfc8b9803feed62f76b696de11d3cc71d9b7b488f3f1e99b4aff",
+      "source_url": "https://staffordshire.moderngov.co.uk/documents/s88242/Hearing%20Aid%20Policy%20Review%20North%20Staffordshire%20CCG%20final.pdf",
+      "role": "Commissioner activity table, section 8."
+    },
+    {
+      "path": "replication/public_hearing_evidence/korea/source_cells.csv",
+      "sha256": "6834e397c127362c9567f7f6b9a47bf51477ea13e1df2b8e87636d2484434300",
+      "source_url": "https://doi.org/10.3346/jkms.2025.40.e289",
+      "role": "Table 4 and associated text, survey-weighted percentages."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2013-10.xls",
+      "sha256": "8019413f2339935bbe69318354a0686fa1264263a23ec5f7b86cf9e62b7ef499",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Oct13-revised-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2013-11.xls",
+      "sha256": "3082bb2d4634af609e6067e46876bb1d99fe67677bd495ede9ced9e5c4302dab",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Nov13-XLS-280K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2013-12.xls",
+      "sha256": "21e1eff0b6193c7b8030ab09f4551a7c6d285137bba9bf9f0f4d6889a5c0e844",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Dec13-XLS-280K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-01.xls",
+      "sha256": "5584701b9c68f7fe5bba69de0809ffa2eb561c35f2b139d9faa1b28d6a3c03bf",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jan14-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-02.xls",
+      "sha256": "d07f18c1e7e9b20a6245085626d553aa8b5d8b01227ed36274fa414e44850ab8",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Feb14-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-03.xls",
+      "sha256": "ab9691f360b5e6da411fef16e3120db465d338ad25fcefcda03cec307c799d4c",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Mar14-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-04.xls",
+      "sha256": "afc6a97d5c05aa16e4adfbb36d1fb61b7a3794cba014ade6ad21aca6a3e18f7e",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Apr14-revised-XLS-282K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-05.xls",
+      "sha256": "4754d046a8e039c69b1d11befd188723ff2e958ac596b606cf42e27a8df1c795",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-May14-revised-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-06.xls",
+      "sha256": "a59da6ffb861e3e64d94b5513539ffd436b523ffd0ef75ba0b7c16428614d138",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jun14-revised-XLS-282K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-07.xls",
+      "sha256": "d053595e9628d8889441167723ffab5ae6c33e394fcbc500cd4af9791fcaf2a3",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jul14-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-08.xls",
+      "sha256": "da09ee693ded77181bb1d5cf2871725d6e621973e3483e8c0e9c8f9e49a94ce4",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Aug14-XLS-281K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-09.xls",
+      "sha256": "d37db4c75ee05b6390bc16e1411b8ae04f1648286268a6d4096ca3bdd489ac83",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Sep14-revised-XLS-280K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-10.xls",
+      "sha256": "b0146efe98747efbce03e6c6c26110339a0a1e93c91fa6858a5dc05b494a38be",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Oct14-XLS-280K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-11.xls",
+      "sha256": "e450e5fe18cad619ce813b2e94e724aadb102369f72b8127822dad2dae2519d9",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Nov14-XLS-280K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2014-12.xls",
+      "sha256": "35be192b0c2cf1068ae331f084d8d03eace54db660ee8a6c858c1b1c77575508",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Dec14-XLS-282K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-01.xls",
+      "sha256": "6efff331004d2c2aff0d833c19f35ac900b0ebdf8ac6ee888b8fc8003c58fdef",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jan15-XLS-282K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-02.xls",
+      "sha256": "bd35939dda24122a6b2353e0ed593a2d8e3bf868c3da127d1857395cefcf71fa",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Feb15-XLS-283K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-03.xls",
+      "sha256": "00a47cd16554b425fc8ba96a622a46e33051c4c434bfa2f388312d84f7c23d67",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Mar15-XLS-283K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-04.xls",
+      "sha256": "0e255b0b930654b1e56ac5a7f3e0d61837f5450bd4e5d806b05df7c79cc51427",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Apr15-revised-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-05.xls",
+      "sha256": "526d10ead88bf838d6b199921de8b5f56296cc383f34a91e823d6748911fb5d5",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-MAY15-XLS-271K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-06.xls",
+      "sha256": "b031ed3f1ed66855160713b446c4abcee9910cf8e554114dffb54ed3d7cbe330",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jun15-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-07.xls",
+      "sha256": "c8a277dc0951dae9a35674e4729ef6823b9c8a9b6413177b61d52b6953c62a05",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jul15-revised-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-08.xls",
+      "sha256": "19f3fa94325bd1cca763517f17a7c22281a78a421996dfe808149c5309a6fea7",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Aug15-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-09.xls",
+      "sha256": "edda119f20e77d5f48fb6a94d281fd1db24c54153de318f7886076d36d410203",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Sep15-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-10.xls",
+      "sha256": "02a4e91145550990529ecb137682cc8e7df20d926d6c8a5baa5cd629194ca1d8",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Oct15-XLS-272K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-11.xls",
+      "sha256": "aba187e0c5a5beae2548f00a5d8f145ceb8c4ebecab065c8f16ee2b5bcc0bcd2",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Nov15-XLS-272K-v2.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2015-12.xls",
+      "sha256": "bdc96e1c925c69f4c9597428d44ee7e2a824230f006b6bb30aa2789a05a89972",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Dec15-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-01.xls",
+      "sha256": "a08b22ff891aca3a290f8ffa6c8bd6ce7f47e886cd9fed34b0a92c2c617b4ba7",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jan16-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-02.xls",
+      "sha256": "d8ee97ae56064476b32234c5f620e5b1287ec1755a9247817ae68309338f8144",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Feb16-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-03.xls",
+      "sha256": "49c2359d2cbfbdc54b2cfc23b1213223be7c825bb0ee5d43cd1983215c6a2d38",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Mar16-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-04.xls",
+      "sha256": "074db5a04a7d36797e5bb4c9acd6b0ca363c573fe00d9e24f9ad413ea8792d69",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Apr16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-05.xls",
+      "sha256": "eeef82bb89e0cd0de1d0a4fcaac4349d72a2e004e67c3f370ef9d9e1470584cd",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-May16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-06.xls",
+      "sha256": "822cefe8923e4d20352fc7fa4c420969444a08e06368849aed90bc5fc672a600",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jun16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-07.xls",
+      "sha256": "4fd3908d621c25b8770d7bb6af609d4587df77755e1203824554d6fc6679b7e1",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Jul16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-08.xls",
+      "sha256": "1485d7fc6c5a6279f29002dabd58a8b7853e203f5eb8af25eac4622e9830e675",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Aug16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
+    },
+    {
+      "path": "replication/public_hearing_evidence/staffs/raw/2016-09.xls",
+      "sha256": "58301448b49c16147c9a8fd884d0a0bf1618c1fe69561eaed162952478801b54",
+      "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/04/Completed-Pathways-Commissioner-Provider-View-Sep16-revised-XLS-266K.xls",
+      "role": "Original NHS commissioner/provider workbook."
     }
   ]
 }

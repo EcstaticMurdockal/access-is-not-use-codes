@@ -1,0 +1,6 @@
+age_band,eligible_group,eligible_change_pp,unsupported_change_pp,difference_of_changes_pp,eligible_growth_factor,unsupported_growth_factor,ratio_of_growth_factors
+all_40plus,high_threshold_eligible,30.46,5.19,25.27,2.3209,2.2270,1.0422
+all_40plus,asymmetric_lowest_grade_eligible,12.05,5.19,6.86,3.8420,2.2270,1.7252
+40_to_59,high_threshold_eligible,13.55,2.65,10.90,1.4085,1.4514,0.9704
+60_to_69,high_threshold_eligible,25.45,3.16,22.29,2.1172,1.6515,1.2820
+70plus,high_threshold_eligible,34.82,6.41,28.41,2.7550,2.8056,0.9820

@@ -1,0 +1,19 @@
+# What follow-up can change for people who already use hearing aids
+
+## Trial and treatment
+
+Malmberg, Lunner, Kähäri and Andersson studied 74 adult hearing-aid users in three Swedish clinics. All had completed a fitting three months earlier and reported residual hearing difficulties. The study randomized 37 people per arm. The intervention lasted five weeks and combined reading, home practice, individualized online audiologist feedback, telephone support and peer discussion. Patients in the comparison arm received reading material. Each scheduled weekly telephone discussion lasted about 10–15 minutes. The trial tested all components together. One cannot divide an outcome contrast by 50–75 minutes to estimate the effect of losing a minute of audiologist time. [BMJ Open, 2017, Methods and Tables 1–2](https://doi.org/10.1136/bmjopen-2016-013047)
+
+## What the numbers show
+
+The input file transcribes observed arm means from Table 2 for the prespecified primary endpoint (Hearing Handicap Inventory for the Elderly, lower scores denote fewer difficulties) and the total score of a secondary endpoint (Communication Strategies Scale, higher scores denote greater reported use of communication strategies). Run `python recompute.py` in this directory or invoke it by path with any Python 3 installation. Output is written to `contrasts.csv` alongside the script. The calculation subtracts the reading arm's change from the full programme arm's change. Its unit is points on the corresponding scale.
+
+Immediately after treatment, the descriptive contrast was −1.4 points for hearing handicap and +5.3 for communication strategies. At six months these contrasts were −3.9 and +3.3, respectively. The authors' longitudinal analysis did not detect a difference in improvement on the primary endpoint. It detected a group-by-time difference for the total communication strategies score directly after treatment, with weaker evidence at six months. The study reported missing outcome assessments for 16% of participants immediately after treatment and 30% at six months. The computed contrasts use published means to illustrate magnitude and do not reproduce the mixed-model coefficients, change-score standard errors or an individual-level intention-to-treat reanalysis. [Study and Table 2](https://bmjopen.bmj.com/content/7/5/e013047)
+
+## What a different comparator tells us
+
+Thorén and colleagues randomized 76 experienced hearing-aid users to a five-week guided programme or a waiting list. The intervention improved self-reported hearing handicap relative to the waiting list at the end of treatment and at three months. The contrast with an active reading comparator in the 2017 study cautions against assuming that every increment of support delivers the benefit observed against a waiting list. The studies also differed in recruitment and content. [Thorén et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24749664/)
+
+Malmberg and Hagberg randomized 102 experienced users attending renewed rehabilitation, with 95 reaching the first clinical visit. Both arms were offered five appointments, with two offered remotely in the intervention arm and in person in the comparator arm. The primary hearing-handicap group-by-time interaction was not statistically significant. This comparison concerns the mode of care. Its long-term publication follows the same sample. [Trial, Fig. 1 and Table 2](https://doi.org/10.1080/14992027.2023.2188437) · [Long-term follow-up](https://doi.org/10.1080/14992027.2025.2598644)
+
+The data in these studies do not link a policy-induced increase in first fittings to the care delivered to previously enrolled patients. They inform the separate question of what changes in follow-up can mean to those patients. Raw questionnaire points offer no direct conversion to dollars or quality-adjusted life years.

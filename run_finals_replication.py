@@ -27,6 +27,7 @@ def main():
                    "london_queues/verify_lewisham_queues.py", "ni_audiology/reproduce.py",
                    "korea_registration/standardize.py", "booking_release/check_appointment_release.py"):
         run(MODULES / script)
+    run(MODULES / "public_hearing_evidence/replicate.py", "--extended")
     run(MODULES / "measurement_checks/nhanes_multidevice.py", ROOT)
     run(MODULES / "measurement_checks/cms_checks.py", cms / "analysis_panel.csv")
     import json
